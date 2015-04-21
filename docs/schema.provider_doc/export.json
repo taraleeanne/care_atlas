@@ -1,0 +1,22 @@
+[
+	{
+		"label":"organization"
+		,"select":"provider_doc.organization"
+	}
+	,{
+		"label":"services"
+		,"select":"provider_doc.services"
+	}
+	,{
+		"label":"address"
+		,"select":"provider_doc.address"
+	}
+	,{
+		"label":"website"
+		,"select":"provider_doc.website"
+	}
+	,{
+		"label":"reference"
+		,"select":"provider_doc.reference.doc"
+	}
+]

@@ -1,0 +1,44 @@
+{
+	"nunaliit_type":"navigation"
+	,"title":{
+		"nunaliit_type":"localized"
+		,"en":"Care Atlas"
+		,"fr":"L'Atlas Soins"
+	}
+	,"items":[
+		{
+			"title": {
+				"nunaliit_type":"localized"
+				,"en":"Introduction"
+				,"fr":"Introduction"
+			}
+			,"href": "./index.html?module=module.intro"
+	
+		}
+	           ,{
+                           "title": {
+                                  "nunaliit_type":"localized"
+                                  ,"en":"Childcare Programs"
+                                  ,"fr":"Module de Intro"
+                          }
+                          ,"href": "./index.html?module=module.program"
+                }   
+                   ,{
+                        "title": {
+                                "nunaliit_type":"localized"
+                                ,"en":"Mapping Childcare"
+                                ,"fr":"Module de Intro"
+                        }
+                        ,"href": "./index.html?module=module.policy"
+                 }      
+                  ,{
+                         "title": {
+                                 "nunaliit_type":"localized"
+                                 ,"en":"Childcare Funding"
+                                 ,"fr":"Module de Intro"
+                         }
+                         ,"href": "./index.html?module=module.money"
+                 }
+                       
+	]
+}

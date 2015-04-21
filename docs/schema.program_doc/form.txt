@@ -1,0 +1,54 @@
+<div class="n2_documentForm"><div class="n2_layoutFloat">
+	{{#program_doc}}
+		<div>
+			<div class="label n2s_localize">Program</div>
+			<div class="value">{{#:field}}program{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+		<div>
+			<div class="label n2s_localize">Delivered By</div>
+			<div class="value">{{#:field}}delivered_by{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+		<div>
+			<div class="label n2s_localize">Access</div>
+			<div class="value">{{#:field}}access,textarea{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+		<div>
+			<div class="label n2s_localize">Description</div>
+			<div class="value">{{#:field}}description,textarea{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+		<div>
+			<div class="label n2s_localize">Themes</div>
+			<div class="value">
+					<div>
+						<input type="checkbox" class="{{#:input}}oeyc{{/:input}}" id="themes_oeyc"/> <label for="themes_oeyc" class="n2s_localize">Ontario Early Years Centre</label>
+					</div>
+					<div>
+						<input type="checkbox" class="{{#:input}}french{{/:input}}" id="themes_french"/> <label for="themes_french" class="n2s_localize">Services offered in French</label>
+					</div>
+					<div>
+						<input type="checkbox" class="{{#:input}}resource{{/:input}}" id="themes_resource"/> <label for="themes_resource" class="n2s_localize">Resources / Lending</label>
+					</div>
+			</div>
+			<div class="end"></div>
+		</div>
+	{{/program_doc}}
+
+	<div>
+		<div class="label n2s_localize">Layers</div>
+		<div class="value">{{#:field}}nunaliit_layers,layers{{/:field}}</div>
+		<div class="end"></div>
+	</div>
+
+	{{#nunaliit_geom}}{{{:html}}}{{/nunaliit_geom}}
+
+	<div>
+		<div class="label n2s_localize">Hover Sound</div>
+		<div class="value">{{#:field}}nunaliit_hoverSound,reference{{/:field}}</div>
+		<div class="end"></div>
+	</div>
+	
+</div></div>

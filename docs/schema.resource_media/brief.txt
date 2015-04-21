@@ -1,0 +1,1 @@
+<span class="n2s_localize">Resource</span>({{#demo_media}}{{title}}{{/demo_media}})

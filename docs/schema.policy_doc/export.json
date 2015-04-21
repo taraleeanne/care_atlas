@@ -1,0 +1,21 @@
+[
+	{
+		"label":"policy"
+		,"select":"policy_doc.policy"
+	}
+	,{	"label":"status"
+		,"select":"policy_doc.status"
+	}
+	,{
+		"label":"description"
+		,"select":"policy_doc.description"
+	}
+	,{
+		"label":"discussion"
+		,"select":"policy_doc.discussion"
+	}
+	,{
+		"label":"reference"
+		,"select":"policy_doc.reference.doc"
+	}
+]

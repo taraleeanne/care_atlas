@@ -1,0 +1,1 @@
+schema.resource_media

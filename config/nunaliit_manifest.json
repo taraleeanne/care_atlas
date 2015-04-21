@@ -1,0 +1,637 @@
+{"files": [
+   {
+      "dir": true,
+      "path": "docs"
+   },
+   {
+      "dir": true,
+      "path": "docs/approved"
+   },
+   {
+      "digest": "yVYNlO4ZgwN0Z4qcn5oIM4Acn2I=",
+      "dir": false,
+      "path": "docs/approved/_id.txt"
+   },
+   {
+      "digest": "RjsRKkfTRgLFWMcm326ec/GiO54=",
+      "dir": false,
+      "path": "docs/approved/nunaliit_layer_definition.json"
+   },
+   {
+      "digest": "/MSfluoV9NbNxm4UyqdY8KlfH3M=",
+      "dir": false,
+      "path": "docs/approved/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/help.browsers"
+   },
+   {
+      "dir": true,
+      "path": "docs/help.browsers/_attachments"
+   },
+   {
+      "digest": "rf2/Oqg2qKfGh8I0YSRBRbaPqis=",
+      "dir": false,
+      "path": "docs/help.browsers/_attachments/en.html"
+   },
+   {
+      "digest": "ByxTa9d+6+iw/beKXnhra5JCFCk=",
+      "dir": false,
+      "path": "docs/help.browsers/_attachments/fr.html"
+   },
+   {
+      "digest": "D0OTSnGABcbGo3sKL0Tpwep5i2w=",
+      "dir": false,
+      "path": "docs/help.browsers/_id.txt"
+   },
+   {
+      "digest": "Ixc6AnpzTC09JiufryllhmhjWUE=",
+      "dir": false,
+      "path": "docs/help.browsers/nunaliit_help.json"
+   },
+   {
+      "digest": "kgBezzeI+uqDRqeRn7oCMhiFYas=",
+      "dir": false,
+      "path": "docs/help.browsers/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/help.demo"
+   },
+   {
+      "digest": "0vroCTotgfxRcAlmLqPs4dIW8u4=",
+      "dir": false,
+      "path": "docs/help.demo/_id.txt"
+   },
+   {
+      "digest": "zZUAhqb3/pZzq7C1c3ex1vWZp7U=",
+      "dir": false,
+      "path": "docs/help.demo/nunaliit_help.json"
+   },
+   {
+      "digest": "kgBezzeI+uqDRqeRn7oCMhiFYas=",
+      "dir": false,
+      "path": "docs/help.demo/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/module.demo"
+   },
+   {
+      "digest": "K29BAvXiwDUtVo46WJX2j1uEPck=",
+      "dir": false,
+      "path": "docs/module.demo/_id.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/module.demo/nunaliit_module"
+   },
+   {
+      "digest": "3DfGg66+sET1bjn7jm87/jA7Y78=",
+      "dir": false,
+      "path": "docs/module.demo/nunaliit_module/display.json"
+   },
+   {
+      "digest": "jUdByj2anJYumLDVLUKu0nFcjm4=",
+      "dir": false,
+      "path": "docs/module.demo/nunaliit_module/edit.json"
+   },
+   {
+      "digest": "vDFm69vA+9VfNLzrfzT+ZuqFgeU=",
+      "dir": false,
+      "path": "docs/module.demo/nunaliit_module/help.json"
+   },
+   {
+      "dir": true,
+      "path": "docs/module.demo/nunaliit_module/introduction"
+   },
+   {
+      "dir": true,
+      "path": "docs/module.demo/nunaliit_module/introduction/content"
+   },
+   {
+      "digest": "dOjN9pr5fPgEsDEADn6Fgy4FUog=",
+      "dir": false,
+      "path": "docs/module.demo/nunaliit_module/introduction/content/en.html"
+   },
+   {
+      "digest": "bOvVXdl0gcozT7bOA3dAFF4XB/0=",
+      "dir": false,
+      "path": "docs/module.demo/nunaliit_module/introduction/content/fr.html"
+   },
+   {
+      "digest": "X4MV5m5iVEAqdOVYyH9JhdthKlU=",
+      "dir": false,
+      "path": "docs/module.demo/nunaliit_module/introduction/content/nunaliit_type.txt"
+   },
+   {
+      "digest": "lQo5tsKTS7cvLe92xx6I6cA1OF8=",
+      "dir": false,
+      "path": "docs/module.demo/nunaliit_module/introduction/type.txt"
+   },
+   {
+      "digest": "8LO7CqvRTzt7jHJcNtZFKgtOBUo=",
+      "dir": false,
+      "path": "docs/module.demo/nunaliit_module/map.json"
+   },
+   {
+      "digest": "PsRd7lkhQKX+dXNI1Qr8QUMSv8M=",
+      "dir": false,
+      "path": "docs/module.demo/nunaliit_module/title.json"
+   },
+   {
+      "digest": "+9NKK25qn+gWH5fcQ1ZCYJrAvCk=",
+      "dir": false,
+      "path": "docs/module.demo/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/navigation.demo"
+   },
+   {
+      "digest": "S/J5SFdxM8VJkcNYUA6MwV6HxEM=",
+      "dir": false,
+      "path": "docs/navigation.demo/_id.txt"
+   },
+   {
+      "digest": "vbpa8sR8wGnpDkeSpC5yUQqyoPI=",
+      "dir": false,
+      "path": "docs/navigation.demo/nunaliit_navigation.json"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.daily_vetter"
+   },
+   {
+      "digest": "EZdZGWhGOOUAkrY+SZMs8ttatps=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.daily_vetter/_id.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.daily_vetter/nunaliit_email_template"
+   },
+   {
+      "digest": "4Z/J/jnzJR+7D/yMmXpTX4gURxU=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.daily_vetter/nunaliit_email_template/body.txt"
+   },
+   {
+      "digest": "asO+WLfoAfQEeQwXYO6K3fMoxhA=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.daily_vetter/nunaliit_email_template/subject.txt"
+   },
+   {
+      "digest": "CBhgD/0OhRYSUjAMCVhQA9Z1adY=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.daily_vetter/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.password_recovery"
+   },
+   {
+      "digest": "/PRmZe0D5zqEHWRNqgG/3SSSBE0=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.password_recovery/_id.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.password_recovery/nunaliit_email_template"
+   },
+   {
+      "digest": "xLKlyB3yXEkkcfzNN/fnBKdVypU=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.password_recovery/nunaliit_email_template/body.txt"
+   },
+   {
+      "digest": "HEWDF/Rq1gWevhwhg80vNk1JaZU=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.password_recovery/nunaliit_email_template/subject.txt"
+   },
+   {
+      "digest": "CBhgD/0OhRYSUjAMCVhQA9Z1adY=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.password_recovery/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.password_reminder"
+   },
+   {
+      "digest": "q/XY4zALNIEqccDOq5bp4prR+cY=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.password_reminder/_id.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.password_reminder/nunaliit_email_template"
+   },
+   {
+      "digest": "kWNOH9emCaDUUYMHFmkjlQxV8KQ=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.password_reminder/nunaliit_email_template/body.txt"
+   },
+   {
+      "digest": "czKDs1dnj2bTXpjN1ln+1wUhVjM=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.password_reminder/nunaliit_email_template/subject.txt"
+   },
+   {
+      "digest": "CBhgD/0OhRYSUjAMCVhQA9Z1adY=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.password_reminder/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.submission_approval"
+   },
+   {
+      "digest": "xs8u2ZYoOTi5b4oEJM4g9ST5c0I=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.submission_approval/_id.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.submission_approval/nunaliit_email_template"
+   },
+   {
+      "digest": "/KB6gN+WFs78w8c8pWJXsjP7kHY=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.submission_approval/nunaliit_email_template/body.txt"
+   },
+   {
+      "digest": "VcsaKUQW7C05nnd76sPZHwVKop4=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.submission_approval/nunaliit_email_template/subject.txt"
+   },
+   {
+      "digest": "CBhgD/0OhRYSUjAMCVhQA9Z1adY=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.submission_approval/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.submission_rejection"
+   },
+   {
+      "digest": "Kp6/dJPOkKRz0y832dZWjPn4alU=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.submission_rejection/_id.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.submission_rejection/nunaliit_email_template"
+   },
+   {
+      "digest": "lxh6KF8b1lSnFOrUwfAJvrxVdfM=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.submission_rejection/nunaliit_email_template/body.txt"
+   },
+   {
+      "digest": "c0vWaComgvpZn+EpXBBFB2deQ9s=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.submission_rejection/nunaliit_email_template/subject.txt"
+   },
+   {
+      "digest": "CBhgD/0OhRYSUjAMCVhQA9Z1adY=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.submission_rejection/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.upload"
+   },
+   {
+      "digest": "liNT8g5ldd6ARO74eBU4Rc4lS/A=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.upload/_id.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.upload/nunaliit_email_template"
+   },
+   {
+      "digest": "1Q+AhMFUJhR0lwIyOzZkQmekzak=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.upload/nunaliit_email_template/body.txt"
+   },
+   {
+      "digest": "ygzbVI/mDlReDwISviBxh2rmWrY=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.upload/nunaliit_email_template/subject.txt"
+   },
+   {
+      "digest": "CBhgD/0OhRYSUjAMCVhQA9Z1adY=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.upload/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.user_creation"
+   },
+   {
+      "digest": "SImPdyx6Z2xgQxh0tGRcGAa9Znk=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.user_creation/_id.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.user_creation/nunaliit_email_template"
+   },
+   {
+      "digest": "tb6nZtvpwhG4NxzvG2i66fHfWlA=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.user_creation/nunaliit_email_template/body.txt"
+   },
+   {
+      "digest": "nWWTS7yvg4f/1bY1gcxZ8Fk+XVg=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.user_creation/nunaliit_email_template/subject.txt"
+   },
+   {
+      "digest": "CBhgD/0OhRYSUjAMCVhQA9Z1adY=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.user_creation/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.user_agreement"
+   },
+   {
+      "digest": "98XOPtur8Y3Lf5eK7Kx6CQnQlEI=",
+      "dir": false,
+      "path": "docs/org.nunaliit.user_agreement/_id.txt"
+   },
+   {
+      "digest": "3ssGXydjKQgvpz2USBCEGTgDips=",
+      "dir": false,
+      "path": "docs/org.nunaliit.user_agreement/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.user_agreement/nunaliit_user_agreement"
+   },
+   {
+      "digest": "LV82oAVVIZJSm5M6F1w7tkC/U3k=",
+      "dir": false,
+      "path": "docs/org.nunaliit.user_agreement/nunaliit_user_agreement/content.txt"
+   },
+   {
+      "digest": "fLbvuYullyqbUJDcLlF/4U0SywQ=",
+      "dir": false,
+      "path": "docs/org.nunaliit.user_agreement/nunaliit_user_agreement/enabled.json"
+   },
+   {
+      "dir": true,
+      "path": "docs/public"
+   },
+   {
+      "digest": "YcmysX23eieEG77qv/kjRIsPY4g=",
+      "dir": false,
+      "path": "docs/public/_id.txt"
+   },
+   {
+      "digest": "zUxUWis6bFav6bSK/q7mP7h7N5k=",
+      "dir": false,
+      "path": "docs/public/nunaliit_layer_definition.json"
+   },
+   {
+      "digest": "/MSfluoV9NbNxm4UyqdY8KlfH3M=",
+      "dir": false,
+      "path": "docs/public/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/schema.demo_comment"
+   },
+   {
+      "digest": "1s+iZOBXUHnNKlj0ZdVP8NKFkY4=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/_id.txt"
+   },
+   {
+      "digest": "5AuvqeU84c2pCqYGk2H75qBKlQA=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/brief.txt"
+   },
+   {
+      "digest": "hnAfB7WEfTwJO9zWGlLmlJOrHFE=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/create.json"
+   },
+   {
+      "digest": "/tNsTvV6TCs8Z8WVjW3Y78lr5t8=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/display.txt"
+   },
+   {
+      "digest": "hVyn5ODByGLlC3bs+0GEzDnfRv4=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/export.json"
+   },
+   {
+      "digest": "QDCk3NtiY5DUxC7nAg9WzcHkjXs=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/extensions.json"
+   },
+   {
+      "digest": "+Z8FHK1i35wxw4Ufw6eyD8RvdD0=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/form.txt"
+   },
+   {
+      "digest": "X/5TO4MPCKAyY0ipFgr6/IraRNs=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/isRootSchema.json"
+   },
+   {
+      "digest": "3cpqtEM9m/bDzw9ClOtNs4nkN/w=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/label.txt"
+   },
+   {
+      "digest": "zvCVlW8YX/gp8pgqFr7pHuPQjWc=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/name.txt"
+   },
+   {
+      "digest": "/nBCy3SlV28yoZ8PRKLG4wSTaxE=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/nunaliit_schema.txt"
+   },
+   {
+      "digest": "/nBCy3SlV28yoZ8PRKLG4wSTaxE=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/nunaliit_type.txt"
+   },
+   {
+      "digest": "QDCk3NtiY5DUxC7nAg9WzcHkjXs=",
+      "dir": false,
+      "path": "docs/schema.demo_comment/relatedSchemas.json"
+   },
+   {
+      "dir": true,
+      "path": "docs/schema.demo_doc"
+   },
+   {
+      "digest": "QznGK4IjiOiyf4uaEySd2RhCV6A=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/_id.txt"
+   },
+   {
+      "digest": "Dg/qjxb6mE616/Gs5Cv3DrMxfMc=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/brief.txt"
+   },
+   {
+      "digest": "TCOuvLhv0X8eUAsN/iwZ40KecKI=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/create.json"
+   },
+   {
+      "digest": "mP+HcxuazANa+d1bet/SGVbT7Ik=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/display.txt"
+   },
+   {
+      "digest": "DRQhqmw7hwcL+aglrvpAEysiKrk=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/export.json"
+   },
+   {
+      "digest": "bHS12LCta7VLRFLxxXNCIclfH7E=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/extensions.json"
+   },
+   {
+      "digest": "ITpzC+kWYWuqjFOxEskn87xsWxg=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/form.txt"
+   },
+   {
+      "digest": "X/5TO4MPCKAyY0ipFgr6/IraRNs=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/isRootSchema.json"
+   },
+   {
+      "digest": "1uMVOVnlT563/pPa4ac4e+pNHhQ=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/label.txt"
+   },
+   {
+      "digest": "TgkX3A++E5mg5kbNT1kI+8WULYM=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/name.txt"
+   },
+   {
+      "digest": "/nBCy3SlV28yoZ8PRKLG4wSTaxE=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/nunaliit_schema.txt"
+   },
+   {
+      "digest": "/nBCy3SlV28yoZ8PRKLG4wSTaxE=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/nunaliit_type.txt"
+   },
+   {
+      "digest": "iKwQ/gOcuyZfYBeDjQQBUmKfhB4=",
+      "dir": false,
+      "path": "docs/schema.demo_doc/relatedSchemas.json"
+   },
+   {
+      "dir": true,
+      "path": "docs/schema.demo_media"
+   },
+   {
+      "digest": "WsBCFAcTp+PC+dqDkeZlTn72+es=",
+      "dir": false,
+      "path": "docs/schema.demo_media/_id.txt"
+   },
+   {
+      "digest": "+m6mzLXJBuHyXlVxClyd+zAna1Q=",
+      "dir": false,
+      "path": "docs/schema.demo_media/brief.txt"
+   },
+   {
+      "digest": "Z77N8H8Q2/bMjVAyRM5Hjj501dE=",
+      "dir": false,
+      "path": "docs/schema.demo_media/create.json"
+   },
+   {
+      "digest": "pme8dPhaW5pWALu+ByFHnnZlaNw=",
+      "dir": false,
+      "path": "docs/schema.demo_media/display.txt"
+   },
+   {
+      "digest": "0YZTqf4fnNh2arHnkmrt3UqMgiE=",
+      "dir": false,
+      "path": "docs/schema.demo_media/extensions.json"
+   },
+   {
+      "digest": "B2bc6rqcWsHU+wLP4bi96gztbkE=",
+      "dir": false,
+      "path": "docs/schema.demo_media/form.txt"
+   },
+   {
+      "digest": "X/5TO4MPCKAyY0ipFgr6/IraRNs=",
+      "dir": false,
+      "path": "docs/schema.demo_media/isRootSchema.json"
+   },
+   {
+      "digest": "lKSCQFsP/l0epkxCz0SN6MOFVI0=",
+      "dir": false,
+      "path": "docs/schema.demo_media/label.txt"
+   },
+   {
+      "digest": "SzPK+Xsi7wUorW5OAVnVBlJCH5s=",
+      "dir": false,
+      "path": "docs/schema.demo_media/name.txt"
+   },
+   {
+      "digest": "/nBCy3SlV28yoZ8PRKLG4wSTaxE=",
+      "dir": false,
+      "path": "docs/schema.demo_media/nunaliit_schema.txt"
+   },
+   {
+      "digest": "/nBCy3SlV28yoZ8PRKLG4wSTaxE=",
+      "dir": false,
+      "path": "docs/schema.demo_media/nunaliit_type.txt"
+   },
+   {
+      "dir": true,
+      "path": "htdocs"
+   },
+   {
+      "digest": "5T77x77mK+Xt37DJnY5bGwmXm+U=",
+      "dir": false,
+      "path": "htdocs/index.html"
+   },
+   {
+      "dir": true,
+      "path": "htdocs/js"
+   },
+   {
+      "digest": "BQkUTbUJeRymsrPUm+/mBda4IKQ=",
+      "dir": false,
+      "path": "htdocs/js/index.js"
+   },
+   {
+      "dir": true,
+      "path": "site"
+   },
+   {
+      "dir": true,
+      "path": "site/views"
+   },
+   {
+      "dir": true,
+      "path": "site/views/identity"
+   },
+   {
+      "digest": "l7a84NmWZ0O0zRvx0h5coQHB1j4=",
+      "dir": false,
+      "path": "site/views/identity/map.js"
+   }
+]}

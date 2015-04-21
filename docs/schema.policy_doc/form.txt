@@ -1,0 +1,44 @@
+<div class="n2_documentForm"><div class="n2_layoutFloat">
+	{{#policy_doc}}
+		<div>
+			<div class="label n2s_localize">Policy</div>
+			<div class="value">{{#:field}}policy{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+		<div>
+			<div class="label n2s_localize">Status</div>
+			<div class="value">{{#:field}}status{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+		<div>
+			<div class="label n2s_localize">Description</div>
+			<div class="value">{{#:field}}description,textarea{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+		<div>
+			<div class="label n2s_localize">Discussion</div>
+			<div class="value">{{#:field}}discussion,textarea{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+		<div>
+			<div class="label n2s_localize">Reference</div>
+			<div class="value">{{#:field}}reference,reference{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+	{{/policy_doc}}
+
+	<div>
+		<div class="label n2s_localize">Layers</div>
+		<div class="value">{{#:field}}nunaliit_layers,layers{{/:field}}</div>
+		<div class="end"></div>
+	</div>
+
+	{{#nunaliit_geom}}{{{:html}}}{{/nunaliit_geom}}
+
+	<div>
+		<div class="label n2s_localize">Hover Sound</div>
+		<div class="value">{{#:field}}nunaliit_hoverSound,reference{{/:field}}</div>
+		<div class="end"></div>
+	</div>
+	
+</div></div>

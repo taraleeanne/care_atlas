@@ -1,0 +1,114 @@
+{
+	"title":{
+		"nunaliit_type":"localized"
+		,"en":"Childcare Programs"
+		,"fr":"Atlas Demo"
+	}
+	,"introduction": {
+		"type": "html"
+		,"content": {
+			"nunaliit_type":"localized"
+			,"en":"<div class=\"intro\"><b>Welcome to a Nunaliit Atlas served from CouchDb</b><br/><a class=\"nunaliit_form_link\" href=\"./tools/index.html\">Nunaliit Tools</a></div>"
+			,"fr":"<div class=\"intro\"><b>Bienvenue à un Atlas Nunaliit servi à partir d'une base de données CouchDb</b><br/><a class=\"nunaliit_form_link\" href=\"./tools/index.html\">Outils Nunaliit</a></div>"
+		}
+	}
+	,"map":{
+		"coordinates": {
+			"initialBounds": [-76.35806,44.94292,-75.28003,45.56165]
+			,"autoInitialBounds": false 
+		}
+		,"backgrounds": [
+			{ 
+				"name": "Google Hybrid"
+				,"type": "Google Maps"
+				,"options": {
+					"type": "HYBRID"
+					,"numZoomLevels": 19
+				}
+			}
+			,{
+				"name": "Google Satellite"
+				,"type": "Google Maps"
+				,"options": {
+					"type": "SATELLITE"
+					, "numZoomLevels": 19 
+				}
+			}
+			,{ 
+				"name": "Google Physical"
+				,"type": "Google Maps"
+				,"options": {
+					"type": "TERRAIN"
+					,"numZoomLevels": 16
+				}
+			}
+		]
+		,"overlays": [
+			{
+				"id": "programlayer"
+				,"name": {
+					"nunaliit_type":"localized"
+					,"en":"Public"
+					,"fr":"Couche Publique"
+				}
+				,"type": "couchdb"
+				,"options": {
+					"layerName": "programlayer"
+				}
+				,"featurePopupDelayMs": 0
+				,"useHoverSound": true
+				,"clustering": {
+                    "distance": 20
+                    ,"threshold": 1
+                    ,"disableDynamicClustering": false
+                    ,"clusterPointsOnly": false
+                    ,"minimumLinePixelSize": 20
+                    ,"minimumPolygonPixelSize": 20
+                }
+			}
+		]
+		,"styles":{
+    				"base":{
+        				"normal":{
+            					"fillColor": "#2FFCFF"
+            					,"strokeColor": "#009295"
+            					,"strokeWidth": 2
+            					,"fillOpacity": 0.4
+            					,"strokeOpacity": 1
+            					,"strokeLinecap": "round"
+            					,"strokeDashstyle": "solid"
+           					,"pointRadius": 6
+            					,"pointerEvents": "visiblePainted"
+        					}
+        				,"clicked":{
+            					"strokeColor": "#ff2200"
+            					,"strokeWidth": 3
+        					}
+        				,"hovered":{
+            					"fillColor": "#0000ff"
+            					,"cursor": "pointer"
+        					}
+       	 				,"hoveredClicked":{
+            					"fillColor": "#0000ff"
+            					,"strokeColor": "#ff2200"
+            					,"strokeWidth": 3
+            					,"cursor": "pointer"
+        					}
+    					}	
+				}
+		,"addPointsOnly": false
+		,"toggleClick": true
+	}
+	,"display":{
+		"defaultSchemaName":"demo_doc" 
+	}
+	,"edit":{
+		"defaultSchemaName": "demo_doc"
+		,"newDocumentSchemaNames": ["demo_doc","policy_doc","provider_doc","program_doc"]
+
+	}
+	,"help":{
+		"nunaliit_type":"reference"
+		,"doc":"help.demo"
+	}
+}

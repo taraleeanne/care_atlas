@@ -1,0 +1,80 @@
+<div class="n2_documentDisplay"><div class="n2_layoutFloat">
+
+	{{#nunaliit_hoverSound}}
+		<div style="float:right;" class="n2s_insertHoverSoundIcon"></div>
+	{{/nunaliit_hoverSound}}
+
+	<div>
+		<div class="label n2s_localize"></div>
+		<div class="value"></div>
+		<div class="end"></div>
+	</div>
+
+	{{#program_doc}}
+		{{#program}}
+			<div>
+				<div class="label n2s_localize">Program Type</div>
+				<div class="value">{{.}}</div>
+				<div class="end"></div>
+			</div>
+		{{/program}}
+		{{#delivered_by}}
+			<div>
+				<div class="label n2s_localize">Delivered By</div>
+				<div class="value">{{.}}</div>
+				<div class="end"></div>
+			</div>
+		{{/delivered_by}}
+		{{#access}}
+			<div>
+				<div class="label n2s_localize">Access</div>
+				<div class="value n2s_preserveSpaces n2s_installMaxHeight" _maxheight="250">{{.}}</div>
+				<div class="end"></div>
+			</div>
+		{{/access}}
+		{{#description}}
+			<div>
+				<div class="label n2s_localize">Description</div>
+				<div class="value n2s_preserveSpaces n2s_installMaxHeight" _maxheight="100">{{.}}</div>
+				<div class="end"></div>
+			</div>
+		{{/description}}
+		<div>
+			<div class="label n2s_localize">Themes</div>
+			<div class="value">
+				{{#oeyc}}
+					<div class="n2s_localize">Ontario Early Years Centre</div>
+				{{/oeyc}}
+				{{#french}}
+					<div class="n2s_localize">Services offered in French</div>
+				{{/french}}
+				{{#resource}}
+					<div class="n2s_localize">Resources / Lending</div>
+				{{/resource}}
+			</div>
+			<div class="end"></div>
+		</div>
+	{{/program_doc}}
+	
+	{{#if nunaliit_layers}}
+		<div>
+			<div class="label n2s_localize">Layers</div>
+			<div class="value">
+				{{#each nunaliit_layers}}
+					<div class="n2s_insertLayerName">{{.}}</div>
+				{{/each}}
+			</div>
+			<div class="end"></div>
+		</div>
+	{{/if}}
+
+	{{#nunaliit_hoverSound}}
+		{{#doc}}
+			<div>
+				<div class="label n2s_localize">Hover Sound</div>
+				<div class="value"><a class="n2s_referenceLink" href="#">{{.}}</a></div>
+				<div class="end"></div>
+			</div>
+		{{/doc}}
+	{{/nunaliit_hoverSound}}
+</div></div>
