@@ -109,4 +109,11 @@
 		"nunaliit_type":"reference"
 		,"doc":"help.demo"
 	}
+	,"widgets":[
+		{
+			"widgetType": "createDocument"
+			,"containerClass": "nunaliit_module_title"
+			,"showAsLink": true
+		}
+    ]
 }
