@@ -1,0 +1,45 @@
+// Convert all program_doc so that filterkeys are under program_doc.themes
+function(doc, onTransformedFn, onSkippedFn){
+	var updateRequired = false;
+	
+	if( doc && doc.program_doc ){
+		var keys = [
+			"french"
+			,"oeyc"
+			,"resource"
+			,"playgroup"
+			,"male"
+			,"health"
+			,"language"
+			,"parenting"
+			,"pre_natal"
+			,"post_natal"
+			,"arts"
+			,"massage"
+			,"yoga"
+			,"disability"
+			,"daycare"
+		];
+		
+		for(var i=0; i<keys.length; ++i){
+			var key = keys[i];
+			
+			if( typeof doc.program_doc[key] !== 'undefined' ){
+				updateRequired = true;
+				
+				if( !doc.program_doc.themes ){
+					doc.program_doc.themes = {};
+				};
+				
+				doc.program_doc.themes[key] = doc.program_doc[key];
+				delete doc.program_doc[key];
+			};
+		};
+	};
+	
+	if( updateRequired ){
+		onTransformedFn();
+	} else {
+		onSkippedFn();
+	};
+}

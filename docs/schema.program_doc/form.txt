@@ -20,6 +20,7 @@
 			<div class="value">{{#:field}}description,textarea{{/:field}}</div>
 			<div class="end"></div>
 		</div>
+		{{#themes}}
 		<div>
 			<div class="label n2s_localize">Themes</div>
 			<div class="value">
@@ -83,6 +84,7 @@
 		</div>
 			<div class="end"></div>
 		</div>
+		{{/themes}}
 	{{/program_doc}}
 
 	<div>
