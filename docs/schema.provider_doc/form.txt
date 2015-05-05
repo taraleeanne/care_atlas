@@ -25,6 +25,79 @@
 			<div class="value">{{#:field}}reference,reference{{/:field}}</div>
 			<div class="end"></div>
 		</div>
+
+		<div>
+			<div class="label n2s_localize">Themes</div>
+			<div class="value">
+					<div>
+						<input type="checkbox" class="{{#:input}}oeyc{{/:input}}" id="themes_oeyc"/> <label for="themes_oeyc" class="n2s_localize">Ontario Early Years Centre</label
+>
+					</div>
+					<div>
+						<input type="checkbox" class="{{#:input}}french{{/:input}}" id="themes_french"/> <label for="themes_french" class="n2s_localize">Services offered in French<
+/label>
+					</div>
+					<div>
+						<input type="checkbox" class="{{#:input}}resource{{/:input}}" id="themes_resource"/> <label for="themes_resource" class="n2s_localize">Resources / Lending</
+label>
+					</div>
+					<div>
+                                                <input type="checkbox" class="{{#:input}}playgroups{{/:input}}" id="themes_playgroups"/> <label for="themes_playgroups" class="n2s_localize">Playgroups</lab
+el>
+                                       
+					</div>		
+					<div>                                               
+						 <input type="checkbox" class="{{#:input}}male{{/:input}}" id="themes_male"/> <label for="themes_male" class="n2s_localize">Male Caregivers</label>
+                                       
+					</div>
+					<div>                                               
+						 <input type="checkbox" class="{{#:input}}health{{/:input}}" id="themes_health"/> <label for="themes_health" class="n2s_localize">Health and Development</la
+bel>
+                                       
+					</div>
+					<div>                                               
+						 <input type="checkbox" class="{{#:input}}language{{/:input}}" id="themes_language"/> <label for="themes_language" class="n2s_localize">Language</label>
+                                       
+					</div>
+					<div>                                               
+						 <input type="checkbox" class="{{#:input}}parenting{{/:input}}" id="themes_parenting"/> <label for="themes_parenting" class="n2s_localize">Parenting Support
+s</label>
+                                       
+					</div>
+					<div>                                               
+						 <input type="checkbox" class="{{#:input}}pre_natal{{/:input}}" id="themes_pre_natal"/> <label for="themes_pre_natal" class="n2s_localize">Pre-Natal</label>
+                                       
+					</div>
+					<div>                                               
+						 <input type="checkbox" class="{{#:input}}post_natal{{/:input}}" id="themes_post_natal"/> <label for="themes_post-natal" class="n2s_localize">Post-Natal</la
+bel>
+                                       
+					</div>
+					<div>                                               
+						 <input type="checkbox" class="{{#:input}}arts{{/:input}}" id="themes_arts"/> <label for="themes_arts" class="n2s_localize">Music and Arts</label>
+                                       
+					</div>
+					<div>                                               
+						 <input type="checkbox" class="{{#:input}}massage{{/:input}}" id="themes_massage"/> <label for="themes_massage" class="n2s_localize">Infant Massage</label>
+                                       
+					</div>
+					<div>                                               
+						 <input type="checkbox" class="{{#:input}}yoga{{/:input}}" id="themes_yoga"/> <label for="themes_yoga" class="n2s_localize">Yoga</label>
+                                       
+					</div>
+					<div>
+                                                 <input type="checkbox" class="{{#:input}}disability{{/:input}}" id="themes_disability"/> <label for="themes_disability" class="n2s_localize">Disability</la
+bel>
+
+                                        </div>
+					<div>
+                                                 <input type="checkbox" class="{{#:input}}daycare{{/:input}}" id="themes_daycare"/> <label for="themes_daycare" class="n2s_localize">Daycare Resources</labe
+l>
+
+                                        </div>
+		</div>
+			<div class="end"></div>
+		</div>
 	{{/provider_doc}}
 
 	<div>

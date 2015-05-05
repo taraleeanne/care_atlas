@@ -1,8 +1,8 @@
 {
 	"title":{
 		"nunaliit_type":"localized"
-		,"en":"Demo Atlas"
-		,"fr":"Atlas Demo"
+		,"en":"Federal Programs"
+		,"fr":"Atlas Soins"
 	}
 	,"introduction": {
 		"type": "html"
@@ -18,7 +18,14 @@
 			,"autoInitialBounds": true
 		}
 		,"backgrounds": [
-			{ 
+			{
+				"name": "Watercolor"
+				,"type": "stamen"
+				,"options": {
+					"layerName": "watercolor" 
+				}
+			}
+			,{ 
 				"name": "Google Satellite"
 				,"type": "Google Maps"
 				,"options": {
@@ -72,7 +79,22 @@
 				,"featurePopupDelayMs": 0
 				,"useHoverSound": true
 			}
-		]
+			,{
+				"id": "munprolayer"
+				,"name": {
+					"nunaliit_type":"localized"
+					,"en":"Mun/Prov"
+					,"fr":"Couche Publique"
+				}
+				,"type": "couchdb"
+				,"options": {
+					"layername": "munprolayer"
+				}
+				,"featurePopupDelayMs": 0
+				,"useHoverSound": true
+
+			}	
+				]	
 		,"addPointsOnly": false
 		,"toggleClick": true
 	}
@@ -81,7 +103,7 @@
 	}
 	,"edit":{
 		"defaultSchemaName": "demo_doc"
-		,"newDocumentSchemaNames": ["demo_doc"]
+		,"newDocumentSchemaNames": ["demo_doc","policy_doc","provider_doc","program_doc"]
 	}
 	,"help":{
 		"nunaliit_type":"reference"

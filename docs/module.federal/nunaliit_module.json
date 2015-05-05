@@ -1,7 +1,7 @@
 {
 	"title":{
 		"nunaliit_type":"localized"
-		,"en":"Care Atlas"
+		,"en":"Federal Programs"
 		,"fr":"Atlas Soins"
 	}
 	,"introduction": {
@@ -80,7 +80,7 @@
 				,"useHoverSound": true
 			}
 			,{
-				"id": "policylayer"
+				"id": "federallayer"
 				,"name": {
 					"nunaliit_type":"localized"
 					,"en":"Public"
@@ -88,7 +88,7 @@
 				}
 				,"type": "couchdb"
 				,"options": {
-					"layername": "policylayer"
+					"layername": "federallayer"
 				}
 				,"featurePopupDelayMs": 0
 				,"useHoverSound": true

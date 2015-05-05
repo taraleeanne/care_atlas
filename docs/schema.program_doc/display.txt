@@ -5,10 +5,11 @@
 	{{/nunaliit_hoverSound}}
 
 	<div>
-		<div class="label n2s_localize"></div>
-		<div class="value"></div>
-		<div class="end"></div>
-	</div>
+                <div class="label n2s_localize"></div>
+                <div class="value"></div>
+                <div class="end"></div>
+        </div>
+
 
 	{{#program_doc}}
 		{{#program}}
@@ -46,12 +47,49 @@
 					<div class="n2s_localize">Ontario Early Years Centre</div>
 				{{/oeyc}}
 				{{#french}}
-					<div class="n2s_localize">Services offered in French</div>
+					<div class="n2s_localize">Services Offered in French</div>
 				{{/french}}
 				{{#resource}}
-					<div class="n2s_localize">Resources / Lending</div>
+					<div class="n2s_localize">Resources/Lending</div>
 				{{/resource}}
-			</div>
+				{{#playgroup}}
+                                        <div class="n2s_localize">Playgroups</div>
+                                {{/playgroup}}		
+				{{#male}}
+                                        <div class="n2s_localize">Male Caregivers</div>
+                                {{/male}}	
+				{{#health}}
+                                        <div class="n2s_localize">Health and Development</div>
+                                {{/health}}	
+				{{#language}}
+                                        <div class="n2s_localize">Language Development</div>
+                                {{/language}}	
+				{{#parenting}}
+                                        <div class="n2s_localize">Parenting Skills</div>
+                                {{/parenting}}	
+				{{#pre_natal}}
+                                        <div class="n2s_localize">Pre-Natal</div>
+                                {{/pre_natal}}	
+				{{#post_natal}}
+                                        <div class="n2s_localize">Post-Natal</div>
+                                {{/post_natal}}	
+				{{#arts}}
+                                        <div class="n2s_localize">Music and Arts</div>
+                                {{/arts}}	
+				{{#massage}}
+                                        <div class="n2s_localize">Infant Massage</div>
+                                {{/massage}}		
+				{{#yoga}}
+                                        <div class="n2s_localize">Yoga</div>
+                                {{/yoga}}	
+				{{#disability}}
+                                        <div class="n2s_localize">Disability</div>
+                                {{/disability}}
+                                {{#daycare}}
+                                        <div class="n2s_localize">Daycare Resources</div>
+                                {{/daycare}}	
+
+		</div>
 			<div class="end"></div>
 		</div>
 	{{/program_doc}}

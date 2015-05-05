@@ -2,7 +2,7 @@
 	"nunaliit_type":"navigation"
 	,"title":{
 		"nunaliit_type":"localized"
-		,"en":"Care Atlas"
+		,"en":"Child Care Atlas"
 		,"fr":"L'Atlas Soins"
 	}
 	,"items":[
@@ -18,7 +18,7 @@
 	           ,{
                            "title": {
                                   "nunaliit_type":"localized"
-                                  ,"en":"Childcare Programs"
+                                  ,"en":"Ontario Early Years Centres"
                                   ,"fr":"Module de Intro"
                           }
                           ,"href": "./index.html?module=module.program"
@@ -26,18 +26,18 @@
                    ,{
                         "title": {
                                 "nunaliit_type":"localized"
-                                ,"en":"Mapping Childcare"
+                                ,"en":"Municipal and Provincial Programs"
                                 ,"fr":"Module de Intro"
                         }
-                        ,"href": "./index.html?module=module.policy"
+                        ,"href": "./index.html?module=module.munpro"
                  }      
                   ,{
                          "title": {
                                  "nunaliit_type":"localized"
-                                 ,"en":"Childcare Funding"
+                                 ,"en":"Federal Programs "
                                  ,"fr":"Module de Intro"
                          }
-                         ,"href": "./index.html?module=module.money"
+                         ,"href": "./index.html?module=module.federal"
                  }
                        
 	]

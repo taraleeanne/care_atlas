@@ -6,5 +6,20 @@
 		,"address":""	
 		,"website":""
 		,"reference":{}
+		,"french": false
+        	,"oeyc": false
+	        ,"resource": false
+	        ,"playgroup": false 		
+                ,"male": false
+                ,"health": false
+                ,"language": false
+                ,"parenting": false
+                ,"pre_natal": false
+                ,"post_natal": false
+                ,"arts": false
+                ,"massage": false
+                ,"yoga": false
+		,"disability": false
+	  	,"daycare": false
 	}
 }
