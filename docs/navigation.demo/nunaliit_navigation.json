@@ -39,6 +39,13 @@
                          }
                          ,"href": "./index.html?module=module.federal"
                  }
+		,{
+			"title": {
+				"nunaliit_type":"localized"
+				,"en":"SVG"
+			}
+			,"href": "./index.html?module=module.svg"
+		}
                        
 	]
 }
