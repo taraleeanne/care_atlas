@@ -1,0 +1,22 @@
+[
+	{
+		"label":"department"
+		,"select":"govt_doc.department"
+	}
+	,{
+		"label":"about"
+		,"select":"govt_doc.about"
+	}
+	,{
+		"label":"regulates"
+		,"select":"govt_doc.regulates"
+	}
+	,{
+		"label":"website"
+		,"select":"govt_doc.website"
+	}
+	,{
+		"label":"reference"
+		,"select":"govt_doc.reference.doc"
+	}
+]

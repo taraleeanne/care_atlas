@@ -1,0 +1,1 @@
+<span class="n2s_localize"></span>{{#centre_doc}}{{centre}}{{/centre_doc}}

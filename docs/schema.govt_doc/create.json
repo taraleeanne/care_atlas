@@ -1,0 +1,10 @@
+{
+	"nunaliit_schema": "govt_doc"
+	,"govt_doc": {
+		"department":""
+		,"about":""
+		,"regulates":""	
+		,"website":""
+		,"reference":{}
+	}
+}

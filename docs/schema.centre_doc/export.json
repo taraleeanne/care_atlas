@@ -1,0 +1,22 @@
+[
+	{
+		"label":"centre"
+		,"select":"centre_doc.centre"
+	}
+	,{
+		"label":"services"
+		,"select":"centre_doc.services"
+	}
+	,{
+		"label":"address"
+		,"select":"centre_doc.address"
+	}
+	,{
+		"label":"website"
+		,"select":"centre_doc.website"
+	}
+	,{
+		"label":"reference"
+		,"select":"centre_doc.reference.doc"
+	}
+]
