@@ -103,7 +103,7 @@
 	}
 	,"edit":{
 		"defaultSchemaName": "demo_doc"
-		,"newDocumentSchemaNames": ["demo_doc","policy_doc","provider_doc","program_doc"]
+		,"newDocumentSchemaNames": ["demo_doc","centre_doc","policy_doc","provider_doc","program_doc","govt_doc"]
 	}
 	,"help":{
 		"nunaliit_type":"reference"

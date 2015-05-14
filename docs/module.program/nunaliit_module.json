@@ -104,7 +104,7 @@
 	}
 	,"edit":{
 		"defaultSchemaName": "demo_doc"
-		,"newDocumentSchemaNames": ["demo_doc","policy_doc","provider_doc","program_doc"]
+		,"newDocumentSchemaNames": ["demo_doc","policy_doc","provider_doc","program_doc","govdep_doc"]
 
 	}
 	,"help":{
