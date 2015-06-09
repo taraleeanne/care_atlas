@@ -1,0 +1,12 @@
+.n2canvas_hovered path, 
+.n2canvas_hovered rect, 
+.n2canvas_hovered circle { 
+	fill:blue !important; 
+}
+
+.n2canvas_selected path, 
+.n2canvas_selected rect,
+.n2canvas_selected circle { 
+	stroke:yellow !important; 
+}
+
