@@ -12,91 +12,14 @@
 			,"fr":"<div class=\"intro\"><b>Bienvenue à un Atlas Nunaliit servi à partir d'une base de données CouchDb</b><br/><a class=\"nunaliit_form_link\" href=\"./tools/index.html\">Outils Nunaliit</a></div>"
 		}
 	}
-	,"map":{
-		"coordinates": {
-			"initialBounds": [-75.72,45.41,-75.67,45.43]
-			,"autoInitialBounds": true
+	,"canvas":{
+		"canvasType": "customSvg"
+		,"svgAttachment": "federal_chart.svg"
+		,"cssAttachment": "services.css"
+		,"elemIdToDocId":{
+			"g4362":"2f6cf81060bfa0bcb5214a4e68cd7d58"
+			,"g3354":"2f6cf81060bfa0bcb5214a4e68b88982"
 		}
-		,"backgrounds": [
-			{
-				"name": "Watercolor"
-				,"type": "stamen"
-				,"options": {
-					"layerName": "watercolor" 
-				}
-			}
-			,{ 
-				"name": "Google Satellite"
-				,"type": "Google Maps"
-				,"options": {
-					"type": "SATELLITE"
-					, "numZoomLevels": 19 
-				}
-			}
-			,{ 
-				"name": "Google Hybrid"
-				,"type": "Google Maps"
-				,"options": {
-					"type": "HYBRID"
-					,"numZoomLevels": 19
-				}
-			}
-			,{ 
-				"name": "Google Physical"
-				,"type": "Google Maps"
-				,"options": {
-					"type": "TERRAIN"
-					,"numZoomLevels": 16
-				}
-			}
-		]
-		,"overlays": [
-			{
-				"id": "approved"
-				,"name": {
-					"nunaliit_type":"localized"
-					,"en":"Approved Layer"
-					,"fr":"Couche Approuvée"
-				}
-				,"type": "couchdb"
-				,"options": {
-					"layerName": "approved"
-				}
-				,"featurePopupDelayMs": 0
-				,"useHoverSound": true
-			}
-			,{
-				"id": "public"
-				,"name": {
-					"nunaliit_type":"localized"
-					,"en":"Public"
-					,"fr":"Couche Publique"
-				}
-				,"type": "couchdb"
-				,"options": {
-					"layerName": "public"
-				}
-				,"featurePopupDelayMs": 0
-				,"useHoverSound": true
-			}
-			,{
-				"id": "federallayer"
-				,"name": {
-					"nunaliit_type":"localized"
-					,"en":"Public"
-					,"fr":"Couche Publique"
-				}
-				,"type": "couchdb"
-				,"options": {
-					"layername": "federallayer"
-				}
-				,"featurePopupDelayMs": 0
-				,"useHoverSound": true
-
-			}	
-				]	
-		,"addPointsOnly": false
-		,"toggleClick": true
 	}
 	,"display":{
 		"defaultSchemaName":"demo_doc" 

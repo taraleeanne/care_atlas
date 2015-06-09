@@ -1,0 +1,2494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 1466 1152"
+   width="1466pt"
+   height="96pc"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Federal Chart.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1714"
+     inkscape:window-height="951"
+     id="namedview646"
+     showgrid="false"
+     inkscape:zoom="0.55833333"
+     inkscape:cx="916.25"
+     inkscape:cy="720"
+     inkscape:window-x="75"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4"> Produced by OmniGraffle 6.0.5 <dc:date>2015-05-10 14:04Z</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="white"
+         id="stop9" />
+      <stop
+         offset=".5"
+         stop-color="#91ea96"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient"
+       xlink:href="#Gradient"
+       gradientTransform="translate(431.34196 325.99118) rotate(-151) scale(160.85153)" />
+    <font-face
+       font-family="Georgia"
+       font-size="20"
+       panose-1="2 4 5 2 5 4 5 2 3 3"
+       units-per-em="1000"
+       underline-position="-88.378906"
+       underline-thickness="49.316406"
+       slope="0"
+       x-height="481.4453"
+       cap-height="692.8711"
+       ascent="916.9922"
+       descent="-219.23828"
+       font-weight="500"
+       id="font-face16">
+      <font-face-src
+         id="font-face-src18">
+        <font-face-name
+           name="Georgia"
+           id="font-face-name20" />
+      </font-face-src>
+    </font-face>
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient_2"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="white"
+         id="stop23" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop25" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient_2"
+       xlink:href="#Gradient_2"
+       gradientTransform="matrix(0,90,-90,0,721.75745,353.2597)" />
+    <font-face
+       font-family="Georgia"
+       font-size="20"
+       panose-1="2 4 8 2 5 4 5 2 2 3"
+       units-per-em="1000"
+       underline-position="-87.890625"
+       underline-thickness="59.570312"
+       slope="0"
+       x-height="484.375"
+       cap-height="692.8711"
+       ascent="916.9922"
+       descent="-219.23828"
+       font-weight="bold"
+       id="font-face28">
+      <font-face-src
+         id="font-face-src30">
+        <font-face-name
+           name="Georgia-Bold"
+           id="font-face-name32" />
+      </font-face-src>
+    </font-face>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker"
+       viewBox="-1 -3 6 6"
+       markerWidth="6"
+       markerHeight="6"
+       color="black">
+      <g
+         id="g35">
+        <path
+           d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1"
+           id="path37" />
+      </g>
+    </marker>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="16"
+       panose-1="2 0 5 3 0 0 0 2 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="0"
+       x-height="517"
+       cap-height="714"
+       ascent="951.99585"
+       descent="-212.99744"
+       font-weight="500"
+       id="font-face39">
+      <font-face-src
+         id="font-face-src41">
+        <font-face-name
+           name="HelveticaNeue"
+           id="font-face-name43" />
+      </font-face-src>
+    </font-face>
+    <linearGradient
+       id="Obj_Gradient_3"
+       xlink:href="#Gradient"
+       gradientTransform="translate(1150.34196 544.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_4"
+       xlink:href="#Gradient"
+       gradientTransform="translate(1044.486 650.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_5"
+       xlink:href="#Gradient"
+       gradientTransform="translate(539.3815 650.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_6"
+       xlink:href="#Gradient"
+       gradientTransform="translate(791.71296 831.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_7"
+       xlink:href="#Gradient"
+       gradientTransform="translate(575.34196 760.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_8"
+       xlink:href="#Gradient"
+       gradientTransform="translate(1008.63957 760.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_9"
+       xlink:href="#Gradient_2"
+       gradientTransform="matrix(0,90,-90,0,721.37097,872.5)" />
+    <linearGradient
+       id="Obj_Gradient_a"
+       xlink:href="#Gradient"
+       gradientTransform="translate(1367.34196 437.2509) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_b"
+       xlink:href="#Gradient"
+       gradientTransform="translate(1332.34196 543.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_c"
+       xlink:href="#Gradient"
+       gradientTransform="translate(1258.31034 326.26047) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_d"
+       xlink:href="#Gradient"
+       gradientTransform="translate(287.34196 437.2509) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_e"
+       xlink:href="#Gradient"
+       gradientTransform="translate(431.34196 544.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_f"
+       xlink:href="#Gradient"
+       gradientTransform="translate(646.34196 145.991185) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_10"
+       xlink:href="#Gradient"
+       gradientTransform="translate(935.34196 146.77021) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_11"
+       xlink:href="#Gradient"
+       gradientTransform="translate(790.3419 256.99118) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_12"
+       xlink:href="#Gradient"
+       gradientTransform="translate(1117.34196 1084.9912) rotate(-151) scale(160.85153)" />
+    <font-face
+       font-family="Georgia"
+       font-size="18"
+       panose-1="2 4 5 2 5 4 5 2 3 3"
+       units-per-em="1000"
+       underline-position="-88.378906"
+       underline-thickness="49.316406"
+       slope="0"
+       x-height="481.4453"
+       cap-height="692.8711"
+       ascent="916.9922"
+       descent="-219.23828"
+       font-weight="500"
+       id="font-face61">
+      <font-face-src
+         id="font-face-src63">
+        <font-face-name
+           name="Georgia"
+           id="font-face-name65" />
+      </font-face-src>
+    </font-face>
+    <linearGradient
+       id="Obj_Gradient_13"
+       xlink:href="#Gradient"
+       gradientTransform="translate(431.34196 940.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_14"
+       xlink:href="#Gradient"
+       gradientTransform="translate(469.52555 1085.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_15"
+       xlink:href="#Gradient"
+       gradientTransform="translate(285.34196 794.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_16"
+       xlink:href="#Gradient"
+       gradientTransform="translate(790.93376 1115.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_17"
+       xlink:href="#Gradient"
+       gradientTransform="translate(1150.342 110.991185) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_18"
+       xlink:href="#Gradient"
+       gradientTransform="translate(1224.34196 216.99118) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       id="Obj_Gradient_19"
+       xlink:href="#Gradient"
+       gradientTransform="translate(1295.2787 797.9912) rotate(-151) scale(160.85153)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_2"
+       id="linearGradient4024"
+       gradientTransform="matrix(0,90,-90,0,721.75745,353.2597)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_2"
+       id="linearGradient4038"
+       gradientTransform="matrix(0,90,-90,0,721.37097,872.5)" />
+    <clipPath
+       id="clip_path">
+      <use
+         xlink:href="#path"
+         id="use84"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_2">
+      <use
+         xlink:href="#path_2"
+         id="use122"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_3">
+      <use
+         xlink:href="#path_3"
+         id="use140"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_4">
+      <use
+         xlink:href="#path_4"
+         id="use158"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_5">
+      <use
+         xlink:href="#path_5"
+         id="use176"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_6">
+      <use
+         xlink:href="#path_6"
+         id="use192"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_7">
+      <use
+         xlink:href="#path_7"
+         id="use210"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_8">
+      <use
+         xlink:href="#path_8"
+         id="use248"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_9">
+      <use
+         xlink:href="#path_9"
+         id="use264"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_a">
+      <use
+         xlink:href="#path_a"
+         id="use282"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_b">
+      <use
+         xlink:href="#path_b"
+         id="use312"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_c">
+      <use
+         xlink:href="#path_c"
+         id="use328"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_d">
+      <use
+         xlink:href="#path_d"
+         id="use344"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_e">
+      <use
+         xlink:href="#path_e"
+         id="use360"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_f">
+      <use
+         xlink:href="#path_f"
+         id="use378"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_10">
+      <use
+         xlink:href="#path_10"
+         id="use436"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_11">
+      <use
+         xlink:href="#path_11"
+         id="use454"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_12">
+      <use
+         xlink:href="#path_12"
+         id="use472"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_13">
+      <use
+         xlink:href="#path_13"
+         id="use488"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_14">
+      <use
+         xlink:href="#path_14"
+         id="use506"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_15">
+      <use
+         xlink:href="#path_15"
+         id="use558"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_16">
+      <use
+         xlink:href="#path_16"
+         id="use576"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <clipPath
+       id="clip_path_17">
+      <use
+         xlink:href="#path_17"
+         id="use606"
+         x="0"
+         y="0"
+         width="1466"
+         height="1152" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4184"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,1295.2787,797.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4200"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,1224.342,216.99118)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4210"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,1150.342,110.99119)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4237"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,790.93376,1115.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4247"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,285.34196,794.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4256"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,469.52555,1085.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4266"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,431.34196,940.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4276"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,1117.342,1084.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4306"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,790.3419,256.99118)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4316"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,935.34196,146.77021)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4325"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,646.34196,145.99118)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4334"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,431.34196,544.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4343"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,287.34196,437.2509)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4359"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,1258.3103,326.26047)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4369"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,1332.342,543.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4378"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,1367.342,437.2509)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4398"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,1008.6396,760.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4408"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,575.34196,760.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4417"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,791.71296,831.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4427"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,539.3815,650.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4437"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,1044.486,650.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4447"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,1150.342,544.9912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient4467"
+       gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,431.34196,325.99118)" />
+  </defs>
+  <rect
+     x="289"
+     y="251"
+     width="144"
+     height="72"
+     id="path"
+     style="fill:url(#linearGradient4467);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path)"
+     id="g86">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image88"
+       transform="matrix(0.66666667,0,0,0.65789474,289,251)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="289"
+     y="251"
+     width="144"
+     height="72"
+     id="rect90"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text92"
+     style="fill:#000000;stroke:none"
+     x="294"
+     y="265">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="317.60645"
+       y="283"
+       textLength="91.61133"
+       id="tspan94"
+       style="font-size:20px;font-weight:500;font-family:Georgia">EI Family</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="307.51367"
+       y="305"
+       textLength="106.972656"
+       id="tspan96"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Supplement</tspan>
+  </text>
+  <ellipse
+     cx="721.75745"
+     cy="398.2597"
+     rx="144.00023"
+     ry="45.000072"
+     id="ellipse98"
+     style="fill:url(#linearGradient4024);stroke:none"
+     sodipodi:cx="721.75745"
+     sodipodi:cy="398.2597"
+     sodipodi:rx="144.00023"
+     sodipodi:ry="45.000072" />
+  <ellipse
+     cx="721.75745"
+     cy="398.2597"
+     rx="144.00023"
+     ry="45.000072"
+     id="ellipse100"
+     sodipodi:cx="721.75745"
+     sodipodi:cy="398.2597"
+     sodipodi:rx="144.00023"
+     sodipodi:ry="45.000072"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text102"
+     style="fill:#000000;stroke:none"
+     x="611.55743"
+     y="387.2597">
+    <tspan
+       font-size="20"
+       font-weight="bold"
+       x="615.17542"
+       y="405.2597"
+       textLength="213.16406"
+       id="tspan104"
+       style="font-size:20px;font-weight:bold;font-family:Georgia">Federal Government</tspan>
+  </text>
+  <line
+     x1="721.7124"
+     y1="444.25974"
+     x2="721.42279"
+     y2="740.09998"
+     id="line106"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="657.5918"
+     y="552.47662"
+     width="128"
+     height="30"
+     id="rect108"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="657.5918"
+     y="552.47662"
+     width="128"
+     height="30"
+     id="rect110"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text112"
+     style="fill:#000000;stroke:none"
+     x="662.5918"
+     y="558.47662">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="662.75983"
+       y="573.47662"
+       textLength="20.144"
+       id="tspan114"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Dir</tspan>
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="682.61578"
+       y="573.47662"
+       textLength="97.808"
+       id="tspan116"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ect Payments</tspan>
+  </text>
+  <line
+     x1="971"
+     y1="243"
+     x2="1047.8688"
+     y2="122.40775"
+     id="line118"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="1008"
+     y="470"
+     width="144"
+     height="72"
+     id="path_2"
+     style="fill:url(#linearGradient4447);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_2)"
+     id="g124">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image126"
+       transform="matrix(0.66666667,0,0,0.65789474,1008,470)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="1008"
+     y="470"
+     width="144"
+     height="72"
+     id="rect128"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text130"
+     style="fill:#000000;stroke:none"
+     x="1013"
+     y="473">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1033.4229"
+       y="491"
+       textLength="97.978516"
+       id="tspan132"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Child Care</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1042.8076"
+       y="513"
+       textLength="79.208984"
+       id="tspan134"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Expense</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1033.96"
+       y="535"
+       textLength="92.08008"
+       id="tspan136"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Deduction</tspan>
+  </text>
+  <rect
+     x="902.14404"
+     y="576"
+     width="144"
+     height="72"
+     id="path_3"
+     style="fill:url(#linearGradient4437);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_3)"
+     id="g142">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image144"
+       transform="matrix(0.66666667,0,0,0.65789474,902.14403,576.00003)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="902.14404"
+     y="576"
+     width="144"
+     height="72"
+     id="rect146"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text148"
+     style="fill:#000000;stroke:none"
+     x="907.14404"
+     y="579">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="909.6665"
+       y="597"
+       textLength="133.7793"
+       id="tspan150"
+       style="font-size:20px;font-weight:500;font-family:Georgia">National Child</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="942.396"
+       y="619"
+       textLength="68.320312"
+       id="tspan152"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Benefit</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="920.65771"
+       y="641"
+       textLength="106.972656"
+       id="tspan154"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Supplement</tspan>
+  </text>
+  <rect
+     x="397.03955"
+     y="576"
+     width="144"
+     height="72"
+     id="path_4"
+     style="fill:url(#linearGradient4427);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_4)"
+     id="g160">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image162"
+       transform="matrix(0.66666667,0,0,0.65789474,397.03955,576)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="397.03955"
+     y="576"
+     width="144"
+     height="72"
+     id="rect164"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text166"
+     style="fill:#000000;stroke:none"
+     x="402.03955"
+     y="579">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="430.50928"
+       y="597"
+       textLength="81.884766"
+       id="tspan168"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Working</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="416.97412"
+       y="619"
+       textLength="108.95508"
+       id="tspan170"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Income Tax</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="437.2915"
+       y="641"
+       textLength="63.496094"
+       id="tspan172"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Benefit</tspan>
+  </text>
+  <rect
+     x="649.37097"
+     y="757"
+     width="144"
+     height="72"
+     id="path_5"
+     style="fill:url(#linearGradient4417);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_5)"
+     id="g178">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image180"
+       transform="matrix(0.66666667,0,0,0.65789474,649.371,757)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="649.37097"
+     y="757"
+     width="144"
+     height="72"
+     id="rect182"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text184"
+     style="fill:#000000;stroke:none"
+     x="654.37097"
+     y="771">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="661.99597"
+       y="789"
+       textLength="123.57422"
+       id="tspan186"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Canada Child</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="670.9364"
+       y="811"
+       textLength="100.86914"
+       id="tspan188"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Tax Benefit</tspan>
+  </text>
+  <rect
+     x="433"
+     y="686"
+     width="144"
+     height="72"
+     id="path_6"
+     style="fill:url(#linearGradient4408);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_6)"
+     id="g194">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image196"
+       transform="matrix(0.66666667,0,0,0.65789474,433,686)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="433"
+     y="686"
+     width="144"
+     height="72"
+     id="rect198"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text200"
+     style="fill:#000000;stroke:none"
+     x="438"
+     y="689">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="462.48047"
+       y="707"
+       textLength="89.86328"
+       id="tspan202"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Universal</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="462.53906"
+       y="729"
+       textLength="89.746094"
+       id="tspan204"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Child Tax</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="473.25195"
+       y="751"
+       textLength="63.496094"
+       id="tspan206"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Benefit</tspan>
+  </text>
+  <rect
+     x="866.29761"
+     y="686"
+     width="144"
+     height="72"
+     id="path_7"
+     style="fill:url(#linearGradient4398);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_7)"
+     id="g212">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image214"
+       transform="matrix(0.66666667,0,0,0.65789474,866.2976,686.00003)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="866.29761"
+     y="686"
+     width="144"
+     height="72"
+     id="rect216"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text218"
+     style="fill:#000000;stroke:none"
+     x="871.29761"
+     y="689">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="905.10913"
+       y="707"
+       textLength="71.20117"
+       id="tspan220"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Canada</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="876.72046"
+       y="729"
+       textLength="127.978516"
+       id="tspan222"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Pension Child</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="906.54956"
+       y="751"
+       textLength="63.496094"
+       id="tspan224"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Benefit</tspan>
+  </text>
+  <ellipse
+     cx="721.37097"
+     cy="917.5"
+     rx="144.00023"
+     ry="45.000072"
+     id="ellipse226"
+     style="fill:url(#linearGradient4038);stroke:none"
+     sodipodi:cx="721.37097"
+     sodipodi:cy="917.5"
+     sodipodi:rx="144.00023"
+     sodipodi:ry="45.000072" />
+  <ellipse
+     cx="721.37097"
+     cy="917.5"
+     rx="144.00023"
+     ry="45.000072"
+     id="ellipse228"
+     sodipodi:cx="721.37097"
+     sodipodi:cy="917.5"
+     sodipodi:rx="144.00023"
+     sodipodi:ry="45.000072"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text230"
+     style="fill:#000000;stroke:none"
+     x="611.17096"
+     y="884.5">
+    <tspan
+       font-size="20"
+       font-weight="bold"
+       x="638.53894"
+       y="902.5"
+       textLength="170.74219"
+       id="tspan232"
+       style="font-size:20px;font-weight:bold;font-family:Georgia">Current Federal</tspan>
+    <tspan
+       font-size="20"
+       font-weight="bold"
+       x="671.37097"
+       y="924.5"
+       textLength="105.078125"
+       id="tspan234"
+       style="font-size:20px;font-weight:bold;font-family:Georgia">Transfers</tspan>
+    <tspan
+       font-size="20"
+       font-weight="bold"
+       x="662.79675"
+       y="946.5"
+       textLength="117.14844"
+       id="tspan236"
+       style="font-size:20px;font-weight:bold;font-family:Georgia">to Province</tspan>
+  </text>
+  <line
+     x1="721.50897"
+     y1="652.09387"
+     x2="557.7428"
+     y2="626.08667"
+     id="line238"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="721.50891"
+     y1="652.10358"
+     x2="885.44067"
+     y2="626.08087"
+     id="line240"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="721.50891"
+     y1="652.10358"
+     x2="593.13104"
+     y2="693.54834"
+     id="line242"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="721.50757"
+     y1="653.51727"
+     x2="850.13611"
+     y2="694.15033"
+     id="line244"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="1225"
+     y="362.2597"
+     width="144"
+     height="72"
+     id="path_8"
+     style="fill:url(#linearGradient4378);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_8)"
+     id="g250">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image252"
+       transform="matrix(0.66666667,0,0,0.65789474,1225,362.2597)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="1225"
+     y="362.2597"
+     width="144"
+     height="72"
+     id="rect254"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text256"
+     style="fill:#000000;stroke:none"
+     x="1230"
+     y="376.2597">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1263.6211"
+       y="394.2597"
+       textLength="71.58203"
+       id="tspan258"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Income</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1259.0508"
+       y="416.2597"
+       textLength="75.898438"
+       id="tspan260"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Splitting</tspan>
+  </text>
+  <rect
+     x="1190"
+     y="469"
+     width="144"
+     height="72"
+     id="path_9"
+     style="fill:url(#linearGradient4369);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_9)"
+     id="g266">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image268"
+       transform="matrix(0.66666667,0,0,0.65789474,1190,469)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="1190"
+     y="469"
+     width="144"
+     height="72"
+     id="rect270"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text272"
+     style="fill:#000000;stroke:none"
+     x="1195"
+     y="472">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1197.4688"
+       y="490"
+       textLength="133.88672"
+       id="tspan274"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Amount for an</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1228.3574"
+       y="512"
+       textLength="72.109375"
+       id="tspan276"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Eligible</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1213.0791"
+       y="534"
+       textLength="97.841797"
+       id="tspan278"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Dependant</tspan>
+  </text>
+  <rect
+     x="1115.9684"
+     y="251.26929"
+     width="144"
+     height="72"
+     id="path_a"
+     style="fill:url(#linearGradient4359);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_a)"
+     id="g284">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image286"
+       transform="matrix(0.66666667,0,0,0.65789474,1115.9684,251.26929)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="1115.9684"
+     y="251.26929"
+     width="144"
+     height="72"
+     id="rect288"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text290"
+     style="fill:#000000;stroke:none"
+     x="1120.9684"
+     y="254.26929">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1142.8805"
+       y="272.26929"
+       textLength="95"
+       id="tspan292"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Children's</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1156.2106"
+       y="294.26929"
+       textLength="68.339844"
+       id="tspan294"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Fitness</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1151.9479"
+       y="316.26929"
+       textLength="72.041016"
+       id="tspan296"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Amount</tspan>
+  </text>
+  <line
+     x1="721.30896"
+     y1="352.25989"
+     x2="720.51569"
+     y2="270.89923"
+     id="line298"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="648.43414"
+     y="298.81744"
+     width="145"
+     height="30"
+     id="rect300"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="648.43414"
+     y="298.81744"
+     width="145"
+     height="30"
+     id="rect302"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text304"
+     style="fill:#000000;stroke:none"
+     x="653.43414"
+     y="304.81744">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="653.51813"
+       y="319.81744"
+       textLength="121.792"
+       id="tspan306"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Education Benefi</tspan>
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="775.31012"
+       y="319.81744"
+       textLength="13.04"
+       id="tspan308"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ts</tspan>
+  </text>
+  <rect
+     x="145"
+     y="362.2597"
+     width="144"
+     height="72"
+     id="path_b"
+     style="fill:url(#linearGradient4343);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_b)"
+     id="g314">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image316"
+       transform="matrix(0.66666667,0,0,0.65789474,145,362.2597)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="145"
+     y="362.2597"
+     width="144"
+     height="72"
+     id="rect318"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text320"
+     style="fill:#000000;stroke:none"
+     x="150"
+     y="376.2597">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="176.26758"
+       y="394.2597"
+       textLength="86.28906"
+       id="tspan322"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Paternity</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="191.29199"
+       y="416.2597"
+       textLength="51.416016"
+       id="tspan324"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Leave</tspan>
+  </text>
+  <rect
+     x="289"
+     y="470"
+     width="144"
+     height="72"
+     id="path_c"
+     style="fill:url(#linearGradient4334);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_c)"
+     id="g330">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image332"
+       transform="matrix(0.66666667,0,0,0.65789474,289,470)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="289"
+     y="470"
+     width="144"
+     height="72"
+     id="rect334"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text336"
+     style="fill:#000000;stroke:none"
+     x="294"
+     y="484">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="317.09375"
+       y="502"
+       textLength="92.63672"
+       id="tspan338"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Maternity</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="335.29199"
+       y="524"
+       textLength="51.416016"
+       id="tspan340"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Leave</tspan>
+  </text>
+  <rect
+     x="504"
+     y="71"
+     width="144"
+     height="72"
+     id="path_d"
+     style="fill:url(#linearGradient4325);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_d)"
+     id="g346">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image348"
+       transform="matrix(0.66666667,0,0,0.65789474,504,71)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="504"
+     y="71"
+     width="144"
+     height="72"
+     id="rect350"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text352"
+     style="fill:#000000;stroke:none"
+     x="509"
+     y="85">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="542.81152"
+       y="103"
+       textLength="71.20117"
+       id="tspan354"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Canada</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="510.16504"
+       y="125"
+       textLength="131.66992"
+       id="tspan356"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Learning Bond</tspan>
+  </text>
+  <rect
+     x="793"
+     y="71.779022"
+     width="144"
+     height="72"
+     id="path_e"
+     style="fill:url(#linearGradient4316);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_e)"
+     id="g362">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image364"
+       transform="matrix(0.66666667,0,0,0.65789474,793,71.779022)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="793"
+     y="71.779022"
+     width="144"
+     height="72"
+     id="rect366"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text368"
+     style="fill:#000000;stroke:none"
+     x="798"
+     y="74.779022">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="831.81152"
+       y="92.779022"
+       textLength="71.20117"
+       id="tspan370"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Canada</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="819.71191"
+       y="114.77902"
+       textLength="95.40039"
+       id="tspan372"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Education</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="808.81348"
+       y="136.77902"
+       textLength="112.37305"
+       id="tspan374"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Savings Plan</tspan>
+  </text>
+  <rect
+     x="647.99994"
+     y="182"
+     width="144"
+     height="72"
+     id="path_f"
+     style="fill:url(#linearGradient4306);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_f)"
+     id="g380">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image382"
+       transform="matrix(0.66666667,0,0,0.65789474,647.99994,182)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="647.99994"
+     y="182"
+     width="144"
+     height="72"
+     id="rect384"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text386"
+     style="fill:#000000;stroke:none"
+     x="652.99994"
+     y="185">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="672.84662"
+       y="203"
+       textLength="99.13086"
+       id="tspan388"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Registered</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="674.71185"
+       y="225"
+       textLength="95.40039"
+       id="tspan390"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Education</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="663.81342"
+       y="247"
+       textLength="112.37305"
+       id="tspan392"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Savings Plan</tspan>
+  </text>
+  <path
+     d="M 866.6153,396.20064 C 953.00293,395.11265 1061.7096,394 1145,394 c 24.8606,0 45.6735,0.0991 63.0951,0.26714"
+     id="path394"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="925.20459"
+     y="379.8826"
+     width="121"
+     height="30"
+     id="rect396"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="925.20459"
+     y="379.8826"
+     width="121"
+     height="30"
+     id="rect398"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text400"
+     style="fill:#000000;stroke:none"
+     x="930.20459"
+     y="385.8826">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="930.58459"
+       y="400.8826"
+       textLength="9.184"
+       id="tspan402"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">T</tspan>
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="937.99261"
+       y="400.8826"
+       textLength="102.832"
+       id="tspan404"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ax Deductions</tspan>
+  </text>
+  <line
+     x1="1124.6403"
+     y1="394.0206"
+     x2="1203.8372"
+     y2="458.00754"
+     id="line406"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="1125.9563"
+     y1="394.0181"
+     x2="1158.4878"
+     y2="338.01782"
+     id="line408"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="1125.5621"
+     y1="394.01883"
+     x2="1101.0466"
+     y2="454.27237"
+     id="line410"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="671.99994"
+     y1="181"
+     x2="636.59296"
+     y2="153.70708"
+     id="line412"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="768.67493"
+     y1="181"
+     x2="803.66693"
+     y2="154.401"
+     id="line414"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="577.75745"
+     y1="399"
+     x2="305.89996"
+     y2="398.44214"
+     id="line416"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="392.80276"
+     y="375.74771"
+     width="124"
+     height="46"
+     id="rect418"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="392.80276"
+     y="375.74771"
+     width="124"
+     height="46"
+     id="rect420"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text422"
+     style="fill:#000000;stroke:none"
+     x="397.80276"
+     y="380.74771">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="400.25876"
+       y="395.74771"
+       textLength="113.536"
+       id="tspan424"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Unemployment</tspan>
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="425.61874"
+       y="413.74771"
+       textLength="45.328"
+       id="tspan426"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Benefi</tspan>
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="470.94675"
+       y="413.74771"
+       textLength="13.04"
+       id="tspan428"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ts</tspan>
+  </text>
+  <line
+     x1="359.13"
+     y1="398.55136"
+     x2="360.07941"
+     y2="453.10239"
+     id="line430"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="359.12473"
+     y1="398.55136"
+     x2="360.11075"
+     y2="339.89774"
+     id="line432"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="975"
+     y="1010"
+     width="144"
+     height="72"
+     id="path_10"
+     style="fill:url(#linearGradient4276);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_10)"
+     id="g438">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image440"
+       transform="matrix(0.66666667,0,0,0.65789474,975,1010)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="975"
+     y="1010"
+     width="144"
+     height="72"
+     id="rect442"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text444"
+     style="fill:#000000;stroke:none"
+     x="980"
+     y="1014.5">
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="982.21582"
+       y="1031.5"
+       textLength="133.91016"
+       id="tspan446"
+       style="font-size:18px;font-weight:500;font-family:Georgia">Early Childhood</tspan>
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="993.81738"
+       y="1052.5"
+       textLength="110.70703"
+       id="tspan448"
+       style="font-size:18px;font-weight:500;font-family:Georgia">Development</tspan>
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="1010.6968"
+       y="1073.5"
+       textLength="72.606445"
+       id="tspan450"
+       style="font-size:18px;font-weight:500;font-family:Georgia">Initiative</tspan>
+  </text>
+  <rect
+     x="289"
+     y="866"
+     width="144"
+     height="72"
+     id="path_11"
+     style="fill:url(#linearGradient4266);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_11)"
+     id="g456">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image458"
+       transform="matrix(0.66666667,0,0,0.65789474,289,866)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="289"
+     y="866"
+     width="144"
+     height="72"
+     id="rect460"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text462"
+     style="fill:#000000;stroke:none"
+     x="294"
+     y="869">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="314.42285"
+       y="887"
+       textLength="97.978516"
+       id="tspan464"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Child Care</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="330.94141"
+       y="909"
+       textLength="64.941406"
+       id="tspan466"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Spaces</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="320.66309"
+       y="931"
+       textLength="80.67383"
+       id="tspan468"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Initiative</tspan>
+  </text>
+  <rect
+     x="327.18359"
+     y="1011"
+     width="144"
+     height="72"
+     id="path_12"
+     style="fill:url(#linearGradient4256);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_12)"
+     id="g474">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image476"
+       transform="matrix(0.66666667,0,0,0.65789474,327.1836,1011)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="327.18359"
+     y="1011"
+     width="144"
+     height="72"
+     id="rect478"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text480"
+     style="fill:#000000;stroke:none"
+     x="332.18359"
+     y="1025">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="337.21094"
+       y="1043"
+       textLength="128.76953"
+       id="tspan482"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Canada Social</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="361.44922"
+       y="1065"
+       textLength="75.46875"
+       id="tspan484"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Transfer</tspan>
+  </text>
+  <rect
+     x="143"
+     y="720"
+     width="144"
+     height="72"
+     id="path_13"
+     style="fill:url(#linearGradient4247);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_13)"
+     id="g490">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image492"
+       transform="matrix(0.66666667,0,0,0.65789474,143,720)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="143"
+     y="720"
+     width="144"
+     height="72"
+     id="rect494"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text496"
+     style="fill:#000000;stroke:none"
+     x="148"
+     y="723">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="172.48047"
+       y="741"
+       textLength="89.86328"
+       id="tspan498"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Universal</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="168.42285"
+       y="763"
+       textLength="97.978516"
+       id="tspan500"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Child Care</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="195.09277"
+       y="785"
+       textLength="39.814453"
+       id="tspan502"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Plan</tspan>
+  </text>
+  <rect
+     x="648.5918"
+     y="1041"
+     width="144"
+     height="72"
+     id="path_14"
+     style="fill:url(#linearGradient4237);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_14)"
+     id="g508">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image510"
+       transform="matrix(0.66666667,0,0,0.65789474,648.5918,1041)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="648.5918"
+     y="1041"
+     width="144"
+     height="72"
+     id="rect512"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text514"
+     style="fill:#000000;stroke:none"
+     x="653.5918"
+     y="1055">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="654.88379"
+       y="1073"
+       textLength="136.240234"
+       id="tspan516"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Early Learning</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="654.91309"
+       y="1095"
+       textLength="131.35742"
+       id="tspan518"
+       style="font-size:20px;font-weight:500;font-family:Georgia">and Child Care</tspan>
+  </text>
+  <line
+     x1="812.37305"
+     y1="953.41132"
+     x2="959.20996"
+     y2="1011.3562"
+     id="line520"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="631.38757"
+     y1="953.66791"
+     x2="486.93649"
+     y2="1011.7286"
+     id="line522"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="721.14624"
+     y1="963.5"
+     x2="720.85022"
+     y2="1024.1002"
+     id="line524"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="370.74341"
+     y1="939"
+     x2="385.3912"
+     y2="994.62421"
+     id="line526"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="577.65839"
+     y1="911.31873"
+     x2="449.88531"
+     y2="905.82306"
+     id="line528"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="647.5918"
+     y1="1070.1863"
+     x2="488.01477"
+     y2="1055.2914"
+     id="line530"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="327.83099"
+     y="956.6109"
+     width="103"
+     height="30"
+     id="rect532"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="327.83099"
+     y="956.6109"
+     width="103"
+     height="30"
+     id="rect534"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text536"
+     style="fill:#000000;stroke:none"
+     x="332.83099"
+     y="962.6109">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="333.091"
+       y="977.6109"
+       textLength="56.608"
+       id="tspan538"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Sent thr</tspan>
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="389.41101"
+       y="977.6109"
+       textLength="36.16"
+       id="tspan540"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ough</tspan>
+  </text>
+  <rect
+     x="519.92896"
+     y="1048.0773"
+     width="103"
+     height="30"
+     id="rect542"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="519.92896"
+     y="1048.0773"
+     width="103"
+     height="30"
+     id="rect544"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text546"
+     style="fill:#000000;stroke:none"
+     x="524.92896"
+     y="1054.0773">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="525.18896"
+       y="1069.0773"
+       textLength="56.608"
+       id="tspan548"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Sent thr</tspan>
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="581.50897"
+       y="1069.0773"
+       textLength="36.16"
+       id="tspan550"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ough</tspan>
+  </text>
+  <line
+     x1="324"
+     y1="865"
+     x2="263.24301"
+     y2="804.24298"
+     id="line552"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="432"
+     y1="730.55859"
+     x2="303.79184"
+     y2="745.5899"
+     id="line554"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="1008.0001"
+     y="36"
+     width="144"
+     height="72"
+     id="path_15"
+     style="fill:url(#linearGradient4210);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_15)"
+     id="g560">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image562"
+       transform="matrix(0.66666667,0,0,0.65789474,1008.0001,36)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="1008.0001"
+     y="36"
+     width="144"
+     height="72"
+     id="rect564"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text566"
+     style="fill:#000000;stroke:none"
+     x="1013.0001"
+     y="40.5">
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="1032.8468"
+       y="57.5"
+       textLength="98.64844"
+       id="tspan568"
+       style="font-size:18px;font-weight:500;font-family:Georgia">Community</tspan>
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="1017.0309"
+       y="78.5"
+       textLength="130.28027"
+       id="tspan570"
+       style="font-size:18px;font-weight:500;font-family:Georgia">Action Program</tspan>
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="1031.6119"
+       y="99.5"
+       textLength="96.77637"
+       id="tspan572"
+       style="font-size:18px;font-weight:500;font-family:Georgia">for Children</tspan>
+  </text>
+  <g
+     id="g4469">
+    <rect
+       style="fill:url(#linearGradient4200);stroke:none"
+       id="path_16"
+       height="72"
+       width="144"
+       y="142"
+       x="1082" />
+    <g
+       id="g578"
+       clip-path="url(#clip_path_16)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+         xlink:href="image3.png"
+         width="216"
+         height="109.44"
+         transform="matrix(0.66666667,0,0,0.65789474,1082,142)"
+         id="image580"
+         style="opacity:0.75497161" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect582"
+       height="72"
+       width="144"
+       y="142"
+       x="1082" />
+    <text
+       y="146.5"
+       x="1087"
+       style="fill:#000000;stroke:none"
+       id="text584">
+      <tspan
+         style="font-size:18px;font-weight:500;font-family:Georgia"
+         id="tspan586"
+         textLength="135.615234"
+         y="163.5"
+         x="1088.3633"
+         font-weight="500"
+         font-size="18">Canada Prenatal</tspan>
+      <tspan
+         style="font-size:18px;font-weight:500;font-family:Georgia"
+         id="tspan588"
+         textLength="79.189453"
+         y="184.5"
+         x="1116.5762"
+         font-weight="500"
+         font-size="18">Nutrition</tspan>
+      <tspan
+         style="font-size:18px;font-weight:500;font-family:Georgia"
+         id="tspan590"
+         textLength="69.521484"
+         y="205.5"
+         x="1119.2393"
+         font-weight="500"
+         font-size="18">Program</tspan>
+    </text>
+  </g>
+  <path
+     d="M 787.07337,357.12926 C 839.29426,324.34663 913.08724,278.25534 971,243 c 51.52,-31.36367 78.0704,-46.60175 91.7145,-54.00503"
+     id="path592"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="841.0863"
+     y="283.39148"
+     width="80"
+     height="30"
+     id="rect594"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="841.0863"
+     y="283.39148"
+     width="80"
+     height="30"
+     id="rect596"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text598"
+     style="fill:#000000;stroke:none"
+     x="846.0863"
+     y="289.39148">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="846.41431"
+       y="304.39148"
+       textLength="15.696"
+       id="tspan600"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Pr</tspan>
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="861.82233"
+       y="304.39148"
+       textLength="53.936"
+       id="tspan602"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ograms</tspan>
+  </text>
+  <rect
+     x="1152.9368"
+     y="723"
+     width="144"
+     height="72"
+     id="path_17"
+     style="fill:url(#linearGradient4184);stroke:none" />
+  <g
+     style="fill:none;stroke:none"
+     clip-path="url(#clip_path_17)"
+     id="g608">
+    <image
+       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+       xlink:href="image3.png"
+       style="opacity:0.75497161"
+       id="image610"
+       transform="matrix(0.66666667,0,0,0.65789474,1152.9368,723)"
+       height="109.44"
+       width="216" />
+  </g>
+  <rect
+     x="1152.9368"
+     y="723"
+     width="144"
+     height="72"
+     id="rect612"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text614"
+     style="fill:#000000;stroke:none"
+     x="1157.9368"
+     y="737">
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1160.4592"
+       y="755"
+       textLength="133.7793"
+       id="tspan616"
+       style="font-size:20px;font-weight:500;font-family:Georgia">National Child</tspan>
+    <tspan
+       font-size="20"
+       font-weight="500"
+       x="1191.6116"
+       y="777"
+       textLength="66.65039"
+       id="tspan618"
+       style="font-size:20px;font-weight:500;font-family:Georgia">Agenda</tspan>
+  </text>
+  <rect
+     x="341.8754"
+     y="722.72498"
+     width="58"
+     height="30"
+     id="rect620"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="341.8754"
+     y="722.72498"
+     width="58"
+     height="30"
+     id="rect622"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text624"
+     style="fill:#000000;stroke:none"
+     x="346.8754"
+     y="728.72498">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="347.0274"
+       y="743.72498"
+       textLength="47.696"
+       id="tspan626"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Part of</tspan>
+  </text>
+  <rect
+     x="263.30017"
+     y="818.30017"
+     width="58"
+     height="30"
+     id="rect628"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="263.30017"
+     y="818.30017"
+     width="58"
+     height="30"
+     id="rect630"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text632"
+     style="fill:#000000;stroke:none"
+     x="268.30017"
+     y="824.30017">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="268.45218"
+       y="839.30017"
+       textLength="47.696"
+       id="tspan634"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Part of</tspan>
+  </text>
+  <line
+     x1="1037.2688"
+     y1="649"
+     x2="1148.0947"
+     y2="713.95972"
+     id="line636"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="1063.1021"
+     y="666.14008"
+     width="58"
+     height="30"
+     id="rect638"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="1063.1021"
+     y="666.14008"
+     width="58"
+     height="30"
+     id="rect640"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text642"
+     style="fill:#000000;stroke:none"
+     x="1068.1021"
+     y="672.14008">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="1068.2542"
+       y="687.14008"
+       textLength="47.696"
+       id="tspan644"
+       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Part of</tspan>
+  </text>
+</svg>
