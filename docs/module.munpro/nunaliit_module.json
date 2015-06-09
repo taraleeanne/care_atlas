@@ -1,7 +1,7 @@
 {
 	"title":{
 		"nunaliit_type":"localized"
-		,"en":"Federal Programs"
+		,"en":"Municipal and Provincial Programs"
 		,"fr":"Atlas Soins"
 	}
 	,"introduction": {
@@ -14,11 +14,11 @@
 	}
 	,"canvas":{
 		"canvasType": "customSvg"
-		,"svgAttachment": "services.svg"
+		,"svgAttachment": "ontario_ottawa.svg"
 		,"cssAttachment": "services.css"
 		,"elemIdToDocId":{
-			"g3044":"2f6cf81060bfa0bcb5214a4e68403233"
-			,"g3037":"2f6cf81060bfa0bcb5214a4e6840a227"
+			"g4362":"2f6cf81060bfa0bcb5214a4e68cd7d58"
+			,"g3354":"2f6cf81060bfa0bcb5214a4e68b88982"
 		}
 	}
 	,"display":{
