@@ -247,6 +247,39 @@ window.nunaliit_custom.configuration = function(config, callback){
 			var filterFactory = new CareAtlasFilterFactory();
 			customService.setOption('displayFilterFactory',filterFactory);
 		};
+		
+		// Sort function for tiled display
+		customService.setOption('displaySortFunction',function(infos){
+			infos.sort(function(a,b){
+				if( a.schema && b.schema && a.schema !== b.schema ){
+					// Comments at the bottom
+					if( a.schema === 'comment' ) return 1;
+					if( b.schema === 'comment' ) return -1;
+
+					// demo_media next to the bottom
+					if( a.schema === 'demo_media' ) return 1;
+					if( b.schema === 'demo_media' ) return -1;
+				};
+				
+				if( a.updatedTime && b.updatedTime ){
+					if( a.updatedTime > b.updatedTime ){
+						return -1;
+					};
+					if( a.updatedTime < b.updatedTime ){
+						return 1;
+					};
+				};
+
+				if( a.id > b.id ){
+					return -1;
+				};
+				if( a.id < b.id ){
+					return 1;
+				};
+				
+				return 0;
+			});
+		});
 	};
 	
 	// Dispatch service
