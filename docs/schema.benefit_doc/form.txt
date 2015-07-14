@@ -1,0 +1,39 @@
+<div class="n2_documentForm"><div class="n2_layoutFloat">
+	{{#benefit_doc}}
+		<div>
+			<div class="label n2s_localize">Benefit Name</div>
+			<div class="value">{{#:field}}benefit{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+		<div>
+			<div class="label n2s_localize">Delivered By</div>
+			<div class="value">{{#:field}}delivered_by{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+		<div>
+			<div class="label n2s_localize">Access</div>
+			<div class="value">{{#:field}}access,textarea{{/:field}}</div>
+			<div class="end"></div>
+		</div>
+		<div>
+			<div class="label n2s_localize">Description</div>
+			<div class="value">{{#:field}}description,textarea{{/:field}}</div>
+			<div class="end"></div>
+					</div>
+	{{/benefit_doc}}
+
+	<div>
+		<div class="label n2s_localize">Layers</div>
+		<div class="value">{{#:field}}nunaliit_layers,layers{{/:field}}</div>
+		<div class="end"></div>
+	</div>
+
+	{{#nunaliit_geom}}{{{:html}}}{{/nunaliit_geom}}
+
+	<div>
+		<div class="label n2s_localize">Hover Sound</div>
+		<div class="value">{{#:field}}nunaliit_hoverSound,reference{{/:field}}</div>
+		<div class="end"></div>
+	</div>
+	
+</div></div>

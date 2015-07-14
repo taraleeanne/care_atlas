@@ -1,0 +1,10 @@
+{
+	"nunaliit_schema": "benefit_doc"
+	,"benefit_doc": {
+		"benefit":""
+	 	,"delivered_by":""		
+		,"access":""	
+		,"description":""
+		,"reference":{}
+	}
+}

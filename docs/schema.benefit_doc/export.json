@@ -1,0 +1,22 @@
+[
+	{
+		"label":"benefit"
+		,"select":"benefit_doc.benefit"
+	}
+	,{
+		"label":"delivered_by"
+		,"select":"program_doc.delivered_by"
+	}
+	,{
+		"label":"access"
+		,"select":"program_doc.access"
+	}
+	,{
+		"label":"description"
+		,"select":"program_doc.description"
+	}
+	,{
+		"label":"reference"
+		,"select":"program_doc.reference.doc"
+	}
+]
