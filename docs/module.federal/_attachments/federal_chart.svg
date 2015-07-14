@@ -13,8 +13,8 @@
    width="1466pt"
    height="96pc"
    id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Federal Chart.svg">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="federal_chart.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,15 +24,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1714"
-     inkscape:window-height="951"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
      id="namedview646"
      showgrid="false"
      inkscape:zoom="0.55833333"
      inkscape:cx="916.25"
-     inkscape:cy="720"
-     inkscape:window-x="75"
-     inkscape:window-y="34"
+     inkscape:cy="361.79104"
+     inkscape:window-x="66"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <metadata
@@ -639,55 +639,58 @@
        id="linearGradient4467"
        gradientTransform="matrix(-140.68392,-77.982369,77.982369,-140.68392,431.34196,325.99118)" />
   </defs>
-  <rect
-     x="289"
-     y="251"
-     width="144"
-     height="72"
-     id="path"
-     style="fill:url(#linearGradient4467);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path)"
-     id="g86">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image88"
-       transform="matrix(0.66666667,0,0,0.65789474,289,251)"
-       height="109.44"
-       width="216" />
+     id="g3486">
+    <rect
+       style="fill:url(#linearGradient4467);stroke:none"
+       id="path"
+       height="72"
+       width="144"
+       y="251"
+       x="289" />
+    <g
+       id="g86"
+       clip-path="url(#clip_path)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image88"
+         transform="matrix(0.66666667,0,0,0.65789474,289,251)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect90"
+       height="72"
+       width="144"
+       y="251"
+       x="289" />
+    <text
+       y="265"
+       x="294"
+       style="fill:#000000;stroke:none"
+       id="text92">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan94"
+         textLength="91.61133"
+         y="283"
+         x="317.60645"
+         font-weight="500"
+         font-size="20">EI Family</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan96"
+         textLength="106.972656"
+         y="305"
+         x="307.51367"
+         font-weight="500"
+         font-size="20">Supplement</tspan>
+    </text>
   </g>
-  <rect
-     x="289"
-     y="251"
-     width="144"
-     height="72"
-     id="rect90"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text92"
-     style="fill:#000000;stroke:none"
-     x="294"
-     y="265">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="317.60645"
-       y="283"
-       textLength="91.61133"
-       id="tspan94"
-       style="font-size:20px;font-weight:500;font-family:Georgia">EI Family</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="307.51367"
-       y="305"
-       textLength="106.972656"
-       id="tspan96"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Supplement</tspan>
-  </text>
   <ellipse
      cx="721.75745"
      cy="398.2597"
@@ -747,25 +750,26 @@
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <text
      id="text112"
-     style="fill:#000000;stroke:none"
-     x="662.5918"
-     y="558.47662">
+     style="font-size:11.72389507px;fill:#000000;stroke:none"
+     x="678.27716"
+     y="545.62677"
+     transform="scale(0.97699126,1.0235506)">
     <tspan
        font-size="16"
        font-weight="500"
-       x="662.75983"
-       y="573.47662"
+       x="678.44135"
+       y="560.28162"
        textLength="20.144"
        id="tspan114"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Dir</tspan>
+       style="font-size:15.63185978px;font-weight:500;font-family:Helvetica Neue">Dir</tspan>
     <tspan
        font-size="16"
        font-weight="500"
-       x="682.61578"
-       y="573.47662"
+       x="697.84045"
+       y="560.28162"
        textLength="97.808"
        id="tspan116"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ect Payments</tspan>
+       style="font-size:15.63185978px;font-weight:500;font-family:Helvetica Neue">ect Payments</tspan>
   </text>
   <line
      x1="971"
@@ -774,340 +778,358 @@
      y2="122.40775"
      id="line118"
      style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
-  <rect
-     x="1008"
-     y="470"
-     width="144"
-     height="72"
-     id="path_2"
-     style="fill:url(#linearGradient4447);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_2)"
-     id="g124">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image126"
-       transform="matrix(0.66666667,0,0,0.65789474,1008,470)"
-       height="109.44"
-       width="216" />
+     id="g3438">
+    <rect
+       style="fill:url(#linearGradient4447);stroke:none"
+       id="path_2"
+       height="72"
+       width="144"
+       y="470"
+       x="1008" />
+    <g
+       id="g124"
+       clip-path="url(#clip_path_2)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image126"
+         transform="matrix(0.66666667,0,0,0.65789474,1008,470)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect128"
+       height="72"
+       width="144"
+       y="471.43283"
+       x="1009.4329" />
+    <text
+       y="473"
+       x="1013"
+       style="fill:#000000;stroke:none"
+       id="text130">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan132"
+         textLength="97.978516"
+         y="491"
+         x="1033.4229"
+         font-weight="500"
+         font-size="20">Child Care</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan134"
+         textLength="79.208984"
+         y="513"
+         x="1042.8076"
+         font-weight="500"
+         font-size="20">Expense</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan136"
+         textLength="92.08008"
+         y="535"
+         x="1033.96"
+         font-weight="500"
+         font-size="20">Deduction</tspan>
+    </text>
   </g>
-  <rect
-     x="1008"
-     y="470"
-     width="144"
-     height="72"
-     id="rect128"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text130"
-     style="fill:#000000;stroke:none"
-     x="1013"
-     y="473">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1033.4229"
-       y="491"
-       textLength="97.978516"
-       id="tspan132"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Child Care</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1042.8076"
-       y="513"
-       textLength="79.208984"
-       id="tspan134"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Expense</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1033.96"
-       y="535"
-       textLength="92.08008"
-       id="tspan136"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Deduction</tspan>
-  </text>
-  <rect
-     x="902.14404"
-     y="576"
-     width="144"
-     height="72"
-     id="path_3"
-     style="fill:url(#linearGradient4437);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_3)"
-     id="g142">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image144"
-       transform="matrix(0.66666667,0,0,0.65789474,902.14403,576.00003)"
-       height="109.44"
-       width="216" />
+     id="g3448">
+    <rect
+       style="fill:url(#linearGradient4437);stroke:none"
+       id="path_3"
+       height="72"
+       width="144"
+       y="576"
+       x="902.14404" />
+    <g
+       id="g142"
+       clip-path="url(#clip_path_3)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image144"
+         transform="matrix(0.66666667,0,0,0.65789474,902.14403,576.00003)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect146"
+       height="72"
+       width="144"
+       y="576"
+       x="902.14404" />
+    <text
+       y="580.43286"
+       x="905.71118"
+       style="fill:#000000;stroke:none"
+       id="text148">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan150"
+         textLength="133.7793"
+         y="598.43286"
+         x="908.23364"
+         font-weight="500"
+         font-size="20">National Child</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan152"
+         textLength="68.320312"
+         y="620.43286"
+         x="940.96313"
+         font-weight="500"
+         font-size="20">Benefit</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan154"
+         textLength="106.972656"
+         y="642.43286"
+         x="919.22485"
+         font-weight="500"
+         font-size="20">Supplement</tspan>
+    </text>
   </g>
-  <rect
-     x="902.14404"
-     y="576"
-     width="144"
-     height="72"
-     id="rect146"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text148"
-     style="fill:#000000;stroke:none"
-     x="907.14404"
-     y="579">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="909.6665"
-       y="597"
-       textLength="133.7793"
-       id="tspan150"
-       style="font-size:20px;font-weight:500;font-family:Georgia">National Child</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="942.396"
-       y="619"
-       textLength="68.320312"
-       id="tspan152"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Benefit</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="920.65771"
-       y="641"
-       textLength="106.972656"
-       id="tspan154"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Supplement</tspan>
-  </text>
-  <rect
-     x="397.03955"
-     y="576"
-     width="144"
-     height="72"
-     id="path_4"
-     style="fill:url(#linearGradient4427);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_4)"
-     id="g160">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image162"
-       transform="matrix(0.66666667,0,0,0.65789474,397.03955,576)"
-       height="109.44"
-       width="216" />
+     id="g3513">
+    <rect
+       style="fill:url(#linearGradient4427);stroke:none"
+       id="path_4"
+       height="72"
+       width="144"
+       y="576"
+       x="397.03955" />
+    <g
+       id="g160"
+       clip-path="url(#clip_path_4)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image162"
+         transform="matrix(0.66666667,0,0,0.65789474,397.03955,576)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect164"
+       height="72"
+       width="144"
+       y="576"
+       x="397.03955" />
+    <text
+       y="579"
+       x="402.03955"
+       style="fill:#000000;stroke:none"
+       id="text166">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan168"
+         textLength="81.884766"
+         y="597"
+         x="430.50928"
+         font-weight="500"
+         font-size="20">Working</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan170"
+         textLength="108.95508"
+         y="619"
+         x="416.97412"
+         font-weight="500"
+         font-size="20">Income Tax</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan172"
+         textLength="63.496094"
+         y="641"
+         x="437.2915"
+         font-weight="500"
+         font-size="20">Benefit</tspan>
+    </text>
   </g>
-  <rect
-     x="397.03955"
-     y="576"
-     width="144"
-     height="72"
-     id="rect164"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text166"
-     style="fill:#000000;stroke:none"
-     x="402.03955"
-     y="579">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="430.50928"
-       y="597"
-       textLength="81.884766"
-       id="tspan168"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Working</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="416.97412"
-       y="619"
-       textLength="108.95508"
-       id="tspan170"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Income Tax</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="437.2915"
-       y="641"
-       textLength="63.496094"
-       id="tspan172"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Benefit</tspan>
-  </text>
-  <rect
-     x="649.37097"
-     y="757"
-     width="144"
-     height="72"
-     id="path_5"
-     style="fill:url(#linearGradient4417);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_5)"
-     id="g178">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image180"
-       transform="matrix(0.66666667,0,0,0.65789474,649.371,757)"
-       height="109.44"
-       width="216" />
+     id="g3477">
+    <rect
+       style="fill:url(#linearGradient4417);stroke:none"
+       id="path_5"
+       height="72"
+       width="144"
+       y="757"
+       x="649.37097" />
+    <g
+       id="g178"
+       clip-path="url(#clip_path_5)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image180"
+         transform="matrix(0.66666667,0,0,0.65789474,649.371,757)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect182"
+       height="72"
+       width="144"
+       y="757"
+       x="649.37097" />
+    <text
+       y="771"
+       x="654.37097"
+       style="fill:#000000;stroke:none"
+       id="text184">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan186"
+         textLength="123.57422"
+         y="789"
+         x="661.99597"
+         font-weight="500"
+         font-size="20">Canada Child</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan188"
+         textLength="100.86914"
+         y="811"
+         x="670.9364"
+         font-weight="500"
+         font-size="20">Tax Benefit</tspan>
+    </text>
   </g>
-  <rect
-     x="649.37097"
-     y="757"
-     width="144"
-     height="72"
-     id="rect182"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text184"
-     style="fill:#000000;stroke:none"
-     x="654.37097"
-     y="771">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="661.99597"
-       y="789"
-       textLength="123.57422"
-       id="tspan186"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Canada Child</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="670.9364"
-       y="811"
-       textLength="100.86914"
-       id="tspan188"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Tax Benefit</tspan>
-  </text>
-  <rect
-     x="433"
-     y="686"
-     width="144"
-     height="72"
-     id="path_6"
-     style="fill:url(#linearGradient4408);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_6)"
-     id="g194">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image196"
-       transform="matrix(0.66666667,0,0,0.65789474,433,686)"
-       height="109.44"
-       width="216" />
+     id="g3523">
+    <rect
+       style="fill:url(#linearGradient4408);stroke:none"
+       id="path_6"
+       height="72"
+       width="144"
+       y="686"
+       x="433" />
+    <g
+       id="g194"
+       clip-path="url(#clip_path_6)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image196"
+         transform="matrix(0.66666667,0,0,0.65789474,433,686)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect198"
+       height="72"
+       width="144"
+       y="686"
+       x="433" />
+    <text
+       y="689"
+       x="438"
+       style="fill:#000000;stroke:none"
+       id="text200">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan202"
+         textLength="89.86328"
+         y="707"
+         x="462.48047"
+         font-weight="500"
+         font-size="20">Universal</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan204"
+         textLength="89.746094"
+         y="729"
+         x="462.53906"
+         font-weight="500"
+         font-size="20">Child Tax</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan206"
+         textLength="63.496094"
+         y="751"
+         x="473.25195"
+         font-weight="500"
+         font-size="20">Benefit</tspan>
+    </text>
   </g>
-  <rect
-     x="433"
-     y="686"
-     width="144"
-     height="72"
-     id="rect198"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text200"
-     style="fill:#000000;stroke:none"
-     x="438"
-     y="689">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="462.48047"
-       y="707"
-       textLength="89.86328"
-       id="tspan202"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Universal</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="462.53906"
-       y="729"
-       textLength="89.746094"
-       id="tspan204"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Child Tax</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="473.25195"
-       y="751"
-       textLength="63.496094"
-       id="tspan206"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Benefit</tspan>
-  </text>
-  <rect
-     x="866.29761"
-     y="686"
-     width="144"
-     height="72"
-     id="path_7"
-     style="fill:url(#linearGradient4398);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_7)"
-     id="g212">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image214"
-       transform="matrix(0.66666667,0,0,0.65789474,866.2976,686.00003)"
-       height="109.44"
-       width="216" />
+     id="g3467">
+    <rect
+       style="fill:url(#linearGradient4398);stroke:none"
+       id="path_7"
+       height="72"
+       width="144"
+       y="686"
+       x="866.29761" />
+    <g
+       id="g212"
+       clip-path="url(#clip_path_7)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image214"
+         transform="matrix(0.66666667,0,0,0.65789474,866.2976,686.00003)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect216"
+       height="72"
+       width="144"
+       y="686"
+       x="866.29761" />
+    <text
+       y="689"
+       x="871.29761"
+       style="fill:#000000;stroke:none"
+       id="text218">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan220"
+         textLength="71.20117"
+         y="707"
+         x="905.10913"
+         font-weight="500"
+         font-size="20">Canada</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan222"
+         textLength="127.978516"
+         y="729"
+         x="876.72046"
+         font-weight="500"
+         font-size="20">Pension Child</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan224"
+         textLength="63.496094"
+         y="751"
+         x="906.54956"
+         font-weight="500"
+         font-size="20">Benefit</tspan>
+    </text>
   </g>
-  <rect
-     x="866.29761"
-     y="686"
-     width="144"
-     height="72"
-     id="rect216"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text218"
-     style="fill:#000000;stroke:none"
-     x="871.29761"
-     y="689">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="905.10913"
-       y="707"
-       textLength="71.20117"
-       id="tspan220"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Canada</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="876.72046"
-       y="729"
-       textLength="127.978516"
-       id="tspan222"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Pension Child</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="906.54956"
-       y="751"
-       textLength="63.496094"
-       id="tspan224"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Benefit</tspan>
-  </text>
   <ellipse
      cx="721.37097"
      cy="917.5"
@@ -1188,169 +1210,178 @@
      y2="694.15033"
      id="line244"
      style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
-  <rect
-     x="1225"
-     y="362.2597"
-     width="144"
-     height="72"
-     id="path_8"
-     style="fill:url(#linearGradient4378);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_8)"
-     id="g250">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image252"
-       transform="matrix(0.66666667,0,0,0.65789474,1225,362.2597)"
-       height="109.44"
-       width="216" />
+     id="g3419">
+    <rect
+       style="fill:url(#linearGradient4378);stroke:none"
+       id="path_8"
+       height="72"
+       width="144"
+       y="362.2597"
+       x="1225" />
+    <g
+       id="g250"
+       clip-path="url(#clip_path_8)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image252"
+         transform="matrix(0.66666667,0,0,0.65789474,1225,362.2597)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect254"
+       height="72"
+       width="144"
+       y="360.82687"
+       x="1226.4329" />
+    <text
+       y="376.2597"
+       x="1230"
+       style="fill:#000000;stroke:none"
+       id="text256">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan258"
+         textLength="71.58203"
+         y="394.2597"
+         x="1263.6211"
+         font-weight="500"
+         font-size="20">Income</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan260"
+         textLength="75.898438"
+         y="416.2597"
+         x="1259.0508"
+         font-weight="500"
+         font-size="20">Splitting</tspan>
+    </text>
   </g>
-  <rect
-     x="1225"
-     y="362.2597"
-     width="144"
-     height="72"
-     id="rect254"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text256"
-     style="fill:#000000;stroke:none"
-     x="1230"
-     y="376.2597">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1263.6211"
-       y="394.2597"
-       textLength="71.58203"
-       id="tspan258"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Income</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1259.0508"
-       y="416.2597"
-       textLength="75.898438"
-       id="tspan260"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Splitting</tspan>
-  </text>
-  <rect
-     x="1190"
-     y="469"
-     width="144"
-     height="72"
-     id="path_9"
-     style="fill:url(#linearGradient4369);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_9)"
-     id="g266">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image268"
-       transform="matrix(0.66666667,0,0,0.65789474,1190,469)"
-       height="109.44"
-       width="216" />
+     id="g3428">
+    <rect
+       style="fill:url(#linearGradient4369);stroke:none"
+       id="path_9"
+       height="72"
+       width="144"
+       y="469"
+       x="1190" />
+    <g
+       id="g266"
+       clip-path="url(#clip_path_9)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image268"
+         transform="matrix(0.66666667,0,0,0.65789474,1190,469)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect270"
+       height="72"
+       width="144"
+       y="469"
+       x="1191.4329" />
+    <text
+       y="472"
+       x="1195"
+       style="fill:#000000;stroke:none"
+       id="text272">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan274"
+         textLength="133.88672"
+         y="490"
+         x="1197.4688"
+         font-weight="500"
+         font-size="20">Amount for an</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan276"
+         textLength="72.109375"
+         y="512"
+         x="1228.3574"
+         font-weight="500"
+         font-size="20">Eligible</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan278"
+         textLength="97.841797"
+         y="534"
+         x="1213.0791"
+         font-weight="500"
+         font-size="20">Dependant</tspan>
+    </text>
   </g>
-  <rect
-     x="1190"
-     y="469"
-     width="144"
-     height="72"
-     id="rect270"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text272"
-     style="fill:#000000;stroke:none"
-     x="1195"
-     y="472">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1197.4688"
-       y="490"
-       textLength="133.88672"
-       id="tspan274"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Amount for an</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1228.3574"
-       y="512"
-       textLength="72.109375"
-       id="tspan276"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Eligible</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1213.0791"
-       y="534"
-       textLength="97.841797"
-       id="tspan278"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Dependant</tspan>
-  </text>
-  <rect
-     x="1115.9684"
-     y="251.26929"
-     width="144"
-     height="72"
-     id="path_a"
-     style="fill:url(#linearGradient4359);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_a)"
-     id="g284">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image286"
-       transform="matrix(0.66666667,0,0,0.65789474,1115.9684,251.26929)"
-       height="109.44"
-       width="216" />
+     id="g3409">
+    <rect
+       style="fill:url(#linearGradient4359);stroke:none"
+       id="path_a"
+       height="72"
+       width="144"
+       y="251.26929"
+       x="1115.9684" />
+    <g
+       id="g284"
+       clip-path="url(#clip_path_a)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image286"
+         transform="matrix(0.66666667,0,0,0.65789474,1115.9684,251.26929)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect288"
+       height="72"
+       width="144"
+       y="251.26929"
+       x="1115.9684" />
+    <text
+       y="254.26929"
+       x="1120.9684"
+       style="fill:#000000;stroke:none"
+       id="text290">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan292"
+         textLength="95"
+         y="272.26929"
+         x="1142.8805"
+         font-weight="500"
+         font-size="20">Children's</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan294"
+         textLength="68.339844"
+         y="294.26929"
+         x="1156.2106"
+         font-weight="500"
+         font-size="20">Fitness</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan296"
+         textLength="72.041016"
+         y="316.26929"
+         x="1151.9479"
+         font-weight="500"
+         font-size="20">Amount</tspan>
+    </text>
   </g>
-  <rect
-     x="1115.9684"
-     y="251.26929"
-     width="144"
-     height="72"
-     id="rect288"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text290"
-     style="fill:#000000;stroke:none"
-     x="1120.9684"
-     y="254.26929">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1142.8805"
-       y="272.26929"
-       textLength="95"
-       id="tspan292"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Children's</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1156.2106"
-       y="294.26929"
-       textLength="68.339844"
-       id="tspan294"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Fitness</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1151.9479"
-       y="316.26929"
-       textLength="72.041016"
-       id="tspan296"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Amount</tspan>
-  </text>
   <line
      x1="721.30896"
      y1="352.25989"
@@ -1366,295 +1397,311 @@
      id="rect300"
      style="fill:#ffffff;stroke:none" />
   <rect
-     x="648.43414"
+     x="637.88171"
      y="298.81744"
-     width="145"
+     width="168.94795"
      height="30"
      id="rect302"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#000000;stroke-width:1.07942498;stroke-linecap:round;stroke-linejoin:round" />
   <text
      id="text304"
-     style="fill:#000000;stroke:none"
-     x="653.43414"
-     y="304.81744">
+     style="font-size:12.60411644px;fill:#000000;stroke:none"
+     x="608.31079"
+     y="320.16287"
+     transform="scale(1.050343,0.95206993)">
     <tspan
        font-size="16"
        font-weight="500"
-       x="653.51813"
-       y="319.81744"
+       x="608.39899"
+       y="335.91803"
        textLength="121.792"
        id="tspan306"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Education Benefi</tspan>
+       style="font-size:16.80548859px;font-weight:500;font-family:Helvetica Neue">Education Benefits</tspan>
     <tspan
        font-size="16"
        font-weight="500"
-       x="775.31012"
-       y="319.81744"
+       x="736.32239"
+       y="335.91803"
        textLength="13.04"
        id="tspan308"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ts</tspan>
+       style="font-size:16.80548859px;font-weight:500;font-family:Helvetica Neue" />
   </text>
-  <rect
-     x="145"
-     y="362.2597"
-     width="144"
-     height="72"
-     id="path_b"
-     style="fill:url(#linearGradient4343);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_b)"
-     id="g314">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image316"
-       transform="matrix(0.66666667,0,0,0.65789474,145,362.2597)"
-       height="109.44"
-       width="216" />
+     id="g3495">
+    <rect
+       style="fill:url(#linearGradient4343);stroke:none"
+       id="path_b"
+       height="72"
+       width="144"
+       y="362.2597"
+       x="145" />
+    <g
+       id="g314"
+       clip-path="url(#clip_path_b)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image316"
+         transform="matrix(0.66666667,0,0,0.65789474,145,362.2597)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect318"
+       height="72"
+       width="144"
+       y="362.2597"
+       x="145" />
+    <text
+       y="376.2597"
+       x="150"
+       style="fill:#000000;stroke:none"
+       id="text320">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan322"
+         textLength="86.28906"
+         y="394.2597"
+         x="176.26758"
+         font-weight="500"
+         font-size="20">Paternity</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan324"
+         textLength="51.416016"
+         y="416.2597"
+         x="191.29199"
+         font-weight="500"
+         font-size="20">Leave</tspan>
+    </text>
   </g>
-  <rect
-     x="145"
-     y="362.2597"
-     width="144"
-     height="72"
-     id="rect318"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text320"
-     style="fill:#000000;stroke:none"
-     x="150"
-     y="376.2597">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="176.26758"
-       y="394.2597"
-       textLength="86.28906"
-       id="tspan322"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Paternity</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="191.29199"
-       y="416.2597"
-       textLength="51.416016"
-       id="tspan324"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Leave</tspan>
-  </text>
-  <rect
-     x="289"
-     y="470"
-     width="144"
-     height="72"
-     id="path_c"
-     style="fill:url(#linearGradient4334);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_c)"
-     id="g330">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image332"
-       transform="matrix(0.66666667,0,0,0.65789474,289,470)"
-       height="109.44"
-       width="216" />
+     id="g3504">
+    <rect
+       style="fill:url(#linearGradient4334);stroke:none"
+       id="path_c"
+       height="72"
+       width="144"
+       y="470"
+       x="289" />
+    <g
+       id="g330"
+       clip-path="url(#clip_path_c)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image332"
+         transform="matrix(0.66666667,0,0,0.65789474,289,470)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect334"
+       height="72"
+       width="144"
+       y="470"
+       x="289" />
+    <text
+       y="484"
+       x="294"
+       style="fill:#000000;stroke:none"
+       id="text336">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan338"
+         textLength="92.63672"
+         y="502"
+         x="317.09375"
+         font-weight="500"
+         font-size="20">Maternity</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan340"
+         textLength="51.416016"
+         y="524"
+         x="335.29199"
+         font-weight="500"
+         font-size="20">Leave</tspan>
+    </text>
   </g>
-  <rect
-     x="289"
-     y="470"
-     width="144"
-     height="72"
-     id="rect334"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text336"
-     style="fill:#000000;stroke:none"
-     x="294"
-     y="484">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="317.09375"
-       y="502"
-       textLength="92.63672"
-       id="tspan338"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Maternity</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="335.29199"
-       y="524"
-       textLength="51.416016"
-       id="tspan340"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Leave</tspan>
-  </text>
-  <rect
-     x="504"
-     y="71"
-     width="144"
-     height="72"
-     id="path_d"
-     style="fill:url(#linearGradient4325);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_d)"
-     id="g346">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image348"
-       transform="matrix(0.66666667,0,0,0.65789474,504,71)"
-       height="109.44"
-       width="216" />
+     id="g3380">
+    <rect
+       style="fill:url(#linearGradient4325);stroke:none"
+       id="path_d"
+       height="72"
+       width="144"
+       y="71"
+       x="504" />
+    <g
+       id="g346"
+       clip-path="url(#clip_path_d)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image348"
+         transform="matrix(0.66666667,0,0,0.65789474,504,71)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect350"
+       height="72"
+       width="144"
+       y="71"
+       x="504" />
+    <text
+       y="85"
+       x="509"
+       style="fill:#000000;stroke:none"
+       id="text352">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan354"
+         textLength="71.20117"
+         y="103"
+         x="542.81152"
+         font-weight="500"
+         font-size="20">Canada</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan356"
+         textLength="131.66992"
+         y="125"
+         x="510.16504"
+         font-weight="500"
+         font-size="20">Learning Bond</tspan>
+    </text>
   </g>
-  <rect
-     x="504"
-     y="71"
-     width="144"
-     height="72"
-     id="rect350"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text352"
-     style="fill:#000000;stroke:none"
-     x="509"
-     y="85">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="542.81152"
-       y="103"
-       textLength="71.20117"
-       id="tspan354"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Canada</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="510.16504"
-       y="125"
-       textLength="131.66992"
-       id="tspan356"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Learning Bond</tspan>
-  </text>
-  <rect
-     x="793"
-     y="71.779022"
-     width="144"
-     height="72"
-     id="path_e"
-     style="fill:url(#linearGradient4316);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_e)"
-     id="g362">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image364"
-       transform="matrix(0.66666667,0,0,0.65789474,793,71.779022)"
-       height="109.44"
-       width="216" />
+     id="g3389">
+    <rect
+       style="fill:url(#linearGradient4316);stroke:none"
+       id="path_e"
+       height="72"
+       width="144"
+       y="71.779022"
+       x="793" />
+    <g
+       id="g362"
+       clip-path="url(#clip_path_e)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image364"
+         transform="matrix(0.66666667,0,0,0.65789474,793,71.779022)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect366"
+       height="72"
+       width="144"
+       y="70.346184"
+       x="793" />
+    <text
+       y="74.779022"
+       x="798"
+       style="fill:#000000;stroke:none"
+       id="text368">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan370"
+         textLength="71.20117"
+         y="92.779022"
+         x="831.81152"
+         font-weight="500"
+         font-size="20">Canada</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan372"
+         textLength="95.40039"
+         y="114.77902"
+         x="819.71191"
+         font-weight="500"
+         font-size="20">Education</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan374"
+         textLength="112.37305"
+         y="136.77902"
+         x="808.81348"
+         font-weight="500"
+         font-size="20">Savings Plan</tspan>
+    </text>
   </g>
-  <rect
-     x="793"
-     y="71.779022"
-     width="144"
-     height="72"
-     id="rect366"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text368"
-     style="fill:#000000;stroke:none"
-     x="798"
-     y="74.779022">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="831.81152"
-       y="92.779022"
-       textLength="71.20117"
-       id="tspan370"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Canada</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="819.71191"
-       y="114.77902"
-       textLength="95.40039"
-       id="tspan372"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Education</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="808.81348"
-       y="136.77902"
-       textLength="112.37305"
-       id="tspan374"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Savings Plan</tspan>
-  </text>
-  <rect
-     x="647.99994"
-     y="182"
-     width="144"
-     height="72"
-     id="path_f"
-     style="fill:url(#linearGradient4306);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_f)"
-     id="g380">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image382"
-       transform="matrix(0.66666667,0,0,0.65789474,647.99994,182)"
-       height="109.44"
-       width="216" />
+     id="g3399">
+    <rect
+       style="fill:url(#linearGradient4306);stroke:none"
+       id="path_f"
+       height="72"
+       width="144"
+       y="182"
+       x="647.99994" />
+    <g
+       id="g380"
+       clip-path="url(#clip_path_f)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image382"
+         transform="matrix(0.66666667,0,0,0.65789474,647.99994,182)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect384"
+       height="72"
+       width="144"
+       y="182"
+       x="647.99994" />
+    <text
+       y="185"
+       x="652.99994"
+       style="fill:#000000;stroke:none"
+       id="text386">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan388"
+         textLength="99.13086"
+         y="203"
+         x="672.84662"
+         font-weight="500"
+         font-size="20">Registered</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan390"
+         textLength="95.40039"
+         y="225"
+         x="674.71185"
+         font-weight="500"
+         font-size="20">Education</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan392"
+         textLength="112.37305"
+         y="247"
+         x="663.81342"
+         font-weight="500"
+         font-size="20">Savings Plan</tspan>
+    </text>
   </g>
-  <rect
-     x="647.99994"
-     y="182"
-     width="144"
-     height="72"
-     id="rect384"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text386"
-     style="fill:#000000;stroke:none"
-     x="652.99994"
-     y="185">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="672.84662"
-       y="203"
-       textLength="99.13086"
-       id="tspan388"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Registered</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="674.71185"
-       y="225"
-       textLength="95.40039"
-       id="tspan390"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Education</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="663.81342"
-       y="247"
-       textLength="112.37305"
-       id="tspan392"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Savings Plan</tspan>
-  </text>
   <path
      d="M 866.6153,396.20064 C 953.00293,395.11265 1061.7096,394 1145,394 c 24.8606,0 45.6735,0.0991 63.0951,0.26714"
      id="path394"
@@ -1676,25 +1723,26 @@
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <text
      id="text400"
-     style="fill:#000000;stroke:none"
-     x="930.20459"
-     y="385.8826">
+     style="font-size:11.64030361px;fill:#000000;stroke:none"
+     x="958.96906"
+     y="374.31589"
+     transform="scale(0.9700253,1.0309009)">
     <tspan
        font-size="16"
        font-weight="500"
-       x="930.58459"
-       y="400.8826"
+       x="959.33771"
+       y="388.86627"
        textLength="9.184"
        id="tspan402"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">T</tspan>
+       style="font-size:15.52040482px;font-weight:500;font-family:Helvetica Neue">T</tspan>
     <tspan
        font-size="16"
        font-weight="500"
-       x="937.99261"
-       y="400.8826"
+       x="966.52362"
+       y="388.86627"
        textLength="102.832"
        id="tspan404"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ax Deductions</tspan>
+       style="font-size:15.52040482px;font-weight:500;font-family:Helvetica Neue">ax Deductions</tspan>
   </text>
   <line
      x1="1124.6403"
@@ -1754,33 +1802,34 @@
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <text
      id="text422"
-     style="fill:#000000;stroke:none"
-     x="397.80276"
-     y="380.74771">
+     style="font-size:11.4929657px;fill:#000000;stroke:none"
+     x="415.68484"
+     y="364.66003"
+     transform="scale(0.95774714,1.0441169)">
     <tspan
        font-size="16"
        font-weight="500"
-       x="400.25876"
-       y="395.74771"
+       x="418.03705"
+       y="379.02625"
        textLength="113.536"
        id="tspan424"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Unemployment</tspan>
+       style="font-size:15.32395458px;font-weight:500;font-family:Helvetica Neue">Unemployment</tspan>
     <tspan
        font-size="16"
        font-weight="500"
-       x="425.61874"
-       y="413.74771"
+       x="442.3255"
+       y="396.26569"
        textLength="45.328"
        id="tspan426"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Benefi</tspan>
+       style="font-size:15.32395458px;font-weight:500;font-family:Helvetica Neue">Benefits</tspan>
     <tspan
        font-size="16"
        font-weight="500"
-       x="470.94675"
-       y="413.74771"
+       x="485.73828"
+       y="396.26569"
        textLength="13.04"
        id="tspan428"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ts</tspan>
+       style="font-size:15.32395458px;font-weight:500;font-family:Helvetica Neue" />
   </text>
   <line
      x1="359.13"
@@ -1796,275 +1845,290 @@
      y2="339.89774"
      id="line432"
      style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
-  <rect
-     x="975"
-     y="1010"
-     width="144"
-     height="72"
-     id="path_10"
-     style="fill:url(#linearGradient4276);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_10)"
-     id="g438">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image440"
-       transform="matrix(0.66666667,0,0,0.65789474,975,1010)"
-       height="109.44"
-       width="216" />
+     id="g3571">
+    <rect
+       style="fill:url(#linearGradient4276);stroke:none"
+       id="path_10"
+       height="72"
+       width="144"
+       y="1010"
+       x="975" />
+    <g
+       id="g438"
+       clip-path="url(#clip_path_10)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image440"
+         transform="matrix(0.66666667,0,0,0.65789474,975,1010)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect442"
+       height="72"
+       width="144"
+       y="1011.4329"
+       x="976.43286" />
+    <text
+       y="1014.5"
+       x="980"
+       style="fill:#000000;stroke:none"
+       id="text444">
+      <tspan
+         style="font-size:18px;font-weight:500;font-family:Georgia"
+         id="tspan446"
+         textLength="133.91016"
+         y="1031.5"
+         x="982.21582"
+         font-weight="500"
+         font-size="18">Early Childhood</tspan>
+      <tspan
+         style="font-size:18px;font-weight:500;font-family:Georgia"
+         id="tspan448"
+         textLength="110.70703"
+         y="1052.5"
+         x="993.81738"
+         font-weight="500"
+         font-size="18">Development</tspan>
+      <tspan
+         style="font-size:18px;font-weight:500;font-family:Georgia"
+         id="tspan450"
+         textLength="72.606445"
+         y="1073.5"
+         x="1010.6968"
+         font-weight="500"
+         font-size="18">Initiative</tspan>
+    </text>
   </g>
-  <rect
-     x="975"
-     y="1010"
-     width="144"
-     height="72"
-     id="rect442"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text444"
-     style="fill:#000000;stroke:none"
-     x="980"
-     y="1014.5">
-    <tspan
-       font-size="18"
-       font-weight="500"
-       x="982.21582"
-       y="1031.5"
-       textLength="133.91016"
-       id="tspan446"
-       style="font-size:18px;font-weight:500;font-family:Georgia">Early Childhood</tspan>
-    <tspan
-       font-size="18"
-       font-weight="500"
-       x="993.81738"
-       y="1052.5"
-       textLength="110.70703"
-       id="tspan448"
-       style="font-size:18px;font-weight:500;font-family:Georgia">Development</tspan>
-    <tspan
-       font-size="18"
-       font-weight="500"
-       x="1010.6968"
-       y="1073.5"
-       textLength="72.606445"
-       id="tspan450"
-       style="font-size:18px;font-weight:500;font-family:Georgia">Initiative</tspan>
-  </text>
-  <rect
-     x="289"
-     y="866"
-     width="144"
-     height="72"
-     id="path_11"
-     style="fill:url(#linearGradient4266);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_11)"
-     id="g456">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image458"
-       transform="matrix(0.66666667,0,0,0.65789474,289,866)"
-       height="109.44"
-       width="216" />
+     id="g3543">
+    <rect
+       style="fill:url(#linearGradient4266);stroke:none"
+       id="path_11"
+       height="72"
+       width="144"
+       y="866"
+       x="289" />
+    <g
+       id="g456"
+       clip-path="url(#clip_path_11)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image458"
+         transform="matrix(0.66666667,0,0,0.65789474,289,866)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect460"
+       height="72"
+       width="144"
+       y="866"
+       x="289" />
+    <text
+       y="869"
+       x="294"
+       style="fill:#000000;stroke:none"
+       id="text462">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan464"
+         textLength="97.978516"
+         y="887"
+         x="314.42285"
+         font-weight="500"
+         font-size="20">Child Care</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan466"
+         textLength="64.941406"
+         y="909"
+         x="330.94141"
+         font-weight="500"
+         font-size="20">Spaces</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan468"
+         textLength="80.67383"
+         y="931"
+         x="320.66309"
+         font-weight="500"
+         font-size="20">Initiative</tspan>
+    </text>
   </g>
-  <rect
-     x="289"
-     y="866"
-     width="144"
-     height="72"
-     id="rect460"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text462"
-     style="fill:#000000;stroke:none"
-     x="294"
-     y="869">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="314.42285"
-       y="887"
-       textLength="97.978516"
-       id="tspan464"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Child Care</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="330.94141"
-       y="909"
-       textLength="64.941406"
-       id="tspan466"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Spaces</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="320.66309"
-       y="931"
-       textLength="80.67383"
-       id="tspan468"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Initiative</tspan>
-  </text>
-  <rect
-     x="327.18359"
-     y="1011"
-     width="144"
-     height="72"
-     id="path_12"
-     style="fill:url(#linearGradient4256);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_12)"
-     id="g474">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image476"
-       transform="matrix(0.66666667,0,0,0.65789474,327.1836,1011)"
-       height="109.44"
-       width="216" />
+     id="g3553">
+    <rect
+       style="fill:url(#linearGradient4256);stroke:none"
+       id="path_12"
+       height="72"
+       width="144"
+       y="1011"
+       x="327.18359" />
+    <g
+       id="g474"
+       clip-path="url(#clip_path_12)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image476"
+         transform="matrix(0.66666667,0,0,0.65789474,327.1836,1011)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect478"
+       height="72"
+       width="144"
+       y="1011"
+       x="327.18359" />
+    <text
+       y="1025"
+       x="332.18359"
+       style="fill:#000000;stroke:none"
+       id="text480">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan482"
+         textLength="128.76953"
+         y="1043"
+         x="337.21094"
+         font-weight="500"
+         font-size="20">Canada Social</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan484"
+         textLength="75.46875"
+         y="1065"
+         x="361.44922"
+         font-weight="500"
+         font-size="20">Transfer</tspan>
+    </text>
   </g>
-  <rect
-     x="327.18359"
-     y="1011"
-     width="144"
-     height="72"
-     id="rect478"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text480"
-     style="fill:#000000;stroke:none"
-     x="332.18359"
-     y="1025">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="337.21094"
-       y="1043"
-       textLength="128.76953"
-       id="tspan482"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Canada Social</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="361.44922"
-       y="1065"
-       textLength="75.46875"
-       id="tspan484"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Transfer</tspan>
-  </text>
-  <rect
-     x="143"
-     y="720"
-     width="144"
-     height="72"
-     id="path_13"
-     style="fill:url(#linearGradient4247);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_13)"
-     id="g490">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image492"
-       transform="matrix(0.66666667,0,0,0.65789474,143,720)"
-       height="109.44"
-       width="216" />
+     id="g3533">
+    <rect
+       style="fill:url(#linearGradient4247);stroke:none"
+       id="path_13"
+       height="72"
+       width="144"
+       y="720"
+       x="143" />
+    <g
+       id="g490"
+       clip-path="url(#clip_path_13)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image492"
+         transform="matrix(0.66666667,0,0,0.65789474,143,720)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect494"
+       height="72"
+       width="144"
+       y="720"
+       x="143" />
+    <text
+       y="723"
+       x="148"
+       style="fill:#000000;stroke:none"
+       id="text496">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan498"
+         textLength="89.86328"
+         y="741"
+         x="172.48047"
+         font-weight="500"
+         font-size="20">Universal</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan500"
+         textLength="97.978516"
+         y="763"
+         x="168.42285"
+         font-weight="500"
+         font-size="20">Child Care</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan502"
+         textLength="39.814453"
+         y="785"
+         x="195.09277"
+         font-weight="500"
+         font-size="20">Plan</tspan>
+    </text>
   </g>
-  <rect
-     x="143"
-     y="720"
-     width="144"
-     height="72"
-     id="rect494"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text496"
-     style="fill:#000000;stroke:none"
-     x="148"
-     y="723">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="172.48047"
-       y="741"
-       textLength="89.86328"
-       id="tspan498"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Universal</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="168.42285"
-       y="763"
-       textLength="97.978516"
-       id="tspan500"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Child Care</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="195.09277"
-       y="785"
-       textLength="39.814453"
-       id="tspan502"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Plan</tspan>
-  </text>
-  <rect
-     x="648.5918"
-     y="1041"
-     width="144"
-     height="72"
-     id="path_14"
-     style="fill:url(#linearGradient4237);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_14)"
-     id="g508">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image510"
-       transform="matrix(0.66666667,0,0,0.65789474,648.5918,1041)"
-       height="109.44"
-       width="216" />
+     id="g3562">
+    <rect
+       style="fill:url(#linearGradient4237);stroke:none"
+       id="path_14"
+       height="72"
+       width="144"
+       y="1041"
+       x="648.5918" />
+    <g
+       id="g508"
+       clip-path="url(#clip_path_14)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image510"
+         transform="matrix(0.66666667,0,0,0.65789474,648.5918,1041)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect512"
+       height="72"
+       width="144"
+       y="1041"
+       x="648.5918" />
+    <text
+       y="1055"
+       x="653.5918"
+       style="fill:#000000;stroke:none"
+       id="text514">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan516"
+         textLength="136.240234"
+         y="1073"
+         x="654.88379"
+         font-weight="500"
+         font-size="20">Early Learning</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan518"
+         textLength="131.35742"
+         y="1095"
+         x="654.91309"
+         font-weight="500"
+         font-size="20">and Child Care</tspan>
+    </text>
   </g>
-  <rect
-     x="648.5918"
-     y="1041"
-     width="144"
-     height="72"
-     id="rect512"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text514"
-     style="fill:#000000;stroke:none"
-     x="653.5918"
-     y="1055">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="654.88379"
-       y="1073"
-       textLength="136.240234"
-       id="tspan516"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Early Learning</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="654.91309"
-       y="1095"
-       textLength="131.35742"
-       id="tspan518"
-       style="font-size:20px;font-weight:500;font-family:Georgia">and Child Care</tspan>
-  </text>
   <line
      x1="812.37305"
      y1="953.41132"
@@ -2193,122 +2257,128 @@
      y2="745.5899"
      id="line554"
      style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
-  <rect
-     x="1008.0001"
-     y="36"
-     width="144"
-     height="72"
-     id="path_15"
-     style="fill:url(#linearGradient4210);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_15)"
-     id="g560">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image562"
-       transform="matrix(0.66666667,0,0,0.65789474,1008.0001,36)"
-       height="109.44"
-       width="216" />
-  </g>
-  <rect
-     x="1008.0001"
-     y="36"
-     width="144"
-     height="72"
-     id="rect564"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text566"
-     style="fill:#000000;stroke:none"
-     x="1013.0001"
-     y="40.5">
-    <tspan
-       font-size="18"
-       font-weight="500"
-       x="1032.8468"
-       y="57.5"
-       textLength="98.64844"
-       id="tspan568"
-       style="font-size:18px;font-weight:500;font-family:Georgia">Community</tspan>
-    <tspan
-       font-size="18"
-       font-weight="500"
-       x="1017.0309"
-       y="78.5"
-       textLength="130.28027"
-       id="tspan570"
-       style="font-size:18px;font-weight:500;font-family:Georgia">Action Program</tspan>
-    <tspan
-       font-size="18"
-       font-weight="500"
-       x="1031.6119"
-       y="99.5"
-       textLength="96.77637"
-       id="tspan572"
-       style="font-size:18px;font-weight:500;font-family:Georgia">for Children</tspan>
-  </text>
-  <g
-     id="g4469">
+     id="g3359">
     <rect
-       style="fill:url(#linearGradient4200);stroke:none"
-       id="path_16"
+       style="fill:url(#linearGradient4210);stroke:none"
+       id="path_15"
        height="72"
        width="144"
-       y="142"
-       x="1082" />
+       y="36"
+       x="1008.0001" />
     <g
-       id="g578"
-       clip-path="url(#clip_path_16)"
+       id="g560"
+       clip-path="url(#clip_path_15)"
        style="fill:none;stroke:none">
       <image
-         sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
          xlink:href="image3.png"
-         width="216"
+         style="opacity:0.75497161"
+         id="image562"
+         transform="matrix(0.66666667,0,0,0.65789474,1008.0001,36)"
          height="109.44"
-         transform="matrix(0.66666667,0,0,0.65789474,1082,142)"
-         id="image580"
-         style="opacity:0.75497161" />
+         width="216" />
     </g>
     <rect
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       id="rect582"
+       id="rect564"
        height="72"
        width="144"
-       y="142"
-       x="1082" />
+       y="37.432835"
+       x="1009.433" />
     <text
-       y="146.5"
-       x="1087"
+       y="40.5"
+       x="1013.0001"
        style="fill:#000000;stroke:none"
-       id="text584">
+       id="text566">
       <tspan
          style="font-size:18px;font-weight:500;font-family:Georgia"
-         id="tspan586"
-         textLength="135.615234"
-         y="163.5"
-         x="1088.3633"
+         id="tspan568"
+         textLength="98.64844"
+         y="57.5"
+         x="1032.8468"
          font-weight="500"
-         font-size="18">Canada Prenatal</tspan>
+         font-size="18">Community</tspan>
       <tspan
          style="font-size:18px;font-weight:500;font-family:Georgia"
-         id="tspan588"
-         textLength="79.189453"
-         y="184.5"
-         x="1116.5762"
+         id="tspan570"
+         textLength="130.28027"
+         y="78.5"
+         x="1017.0309"
          font-weight="500"
-         font-size="18">Nutrition</tspan>
+         font-size="18">Action Program</tspan>
       <tspan
          style="font-size:18px;font-weight:500;font-family:Georgia"
-         id="tspan590"
-         textLength="69.521484"
-         y="205.5"
-         x="1119.2393"
+         id="tspan572"
+         textLength="96.77637"
+         y="99.5"
+         x="1031.6119"
          font-weight="500"
-         font-size="18">Program</tspan>
+         font-size="18">for Children</tspan>
     </text>
+  </g>
+  <g
+     id="g3369">
+    <g
+       id="g4469">
+      <rect
+         x="1082"
+         y="142"
+         width="144"
+         height="72"
+         id="path_16"
+         style="fill:url(#linearGradient4200);stroke:none" />
+      <g
+         style="fill:none;stroke:none"
+         clip-path="url(#clip_path_16)"
+         id="g578">
+        <image
+           sodipodi:absref="/Users/kent/Desktop/image3.png"
+           xlink:href="image3.png"
+           width="216"
+           height="109.44"
+           transform="matrix(0.66666667,0,0,0.65789474,1082,142)"
+           id="image580"
+           style="opacity:0.75497161" />
+      </g>
+      <rect
+         x="1082"
+         y="142"
+         width="144"
+         height="72"
+         id="rect582"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         id="text584"
+         style="fill:#000000;stroke:none"
+         x="1087"
+         y="146.5">
+        <tspan
+           font-size="18"
+           font-weight="500"
+           x="1088.3633"
+           y="163.5"
+           textLength="135.615234"
+           id="tspan586"
+           style="font-size:18px;font-weight:500;font-family:Georgia">Canada Prenatal</tspan>
+        <tspan
+           font-size="18"
+           font-weight="500"
+           x="1116.5762"
+           y="184.5"
+           textLength="79.189453"
+           id="tspan588"
+           style="font-size:18px;font-weight:500;font-family:Georgia">Nutrition</tspan>
+        <tspan
+           font-size="18"
+           font-weight="500"
+           x="1119.2393"
+           y="205.5"
+           textLength="69.521484"
+           id="tspan590"
+           style="font-size:18px;font-weight:500;font-family:Georgia">Program</tspan>
+      </text>
+    </g>
   </g>
   <path
      d="M 787.07337,357.12926 C 839.29426,324.34663 913.08724,278.25534 971,243 c 51.52,-31.36367 78.0704,-46.60175 91.7145,-54.00503"
@@ -2331,75 +2401,79 @@
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <text
      id="text598"
-     style="fill:#000000;stroke:none"
-     x="846.0863"
-     y="289.39148">
+     style="font-size:11.64297676px;fill:#000000;stroke:none"
+     x="872.14563"
+     y="280.78152"
+     transform="scale(0.97024803,1.0306643)">
     <tspan
        font-size="16"
        font-weight="500"
-       x="846.41431"
-       y="304.39148"
+       x="872.46387"
+       y="295.33524"
        textLength="15.696"
        id="tspan600"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Pr</tspan>
+       style="font-size:15.5239687px;font-weight:500;font-family:Helvetica Neue">Pr</tspan>
     <tspan
        font-size="16"
        font-weight="500"
-       x="861.82233"
-       y="304.39148"
+       x="887.41345"
+       y="295.33524"
        textLength="53.936"
        id="tspan602"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">ograms</tspan>
+       style="font-size:15.5239687px;font-weight:500;font-family:Helvetica Neue">ograms</tspan>
   </text>
-  <rect
-     x="1152.9368"
-     y="723"
-     width="144"
-     height="72"
-     id="path_17"
-     style="fill:url(#linearGradient4184);stroke:none" />
   <g
-     style="fill:none;stroke:none"
-     clip-path="url(#clip_path_17)"
-     id="g608">
-    <image
-       sodipodi:absref="/home/jpfiset/eclipse/n2/care_atlas/docs/module.federal/_attachments/image3.png"
-       xlink:href="image3.png"
-       style="opacity:0.75497161"
-       id="image610"
-       transform="matrix(0.66666667,0,0,0.65789474,1152.9368,723)"
-       height="109.44"
-       width="216" />
+     id="g3458">
+    <rect
+       style="fill:url(#linearGradient4184);stroke:none"
+       id="path_17"
+       height="72"
+       width="144"
+       y="723"
+       x="1152.9368" />
+    <g
+       id="g608"
+       clip-path="url(#clip_path_17)"
+       style="fill:none;stroke:none">
+      <image
+         sodipodi:absref="/Users/kent/Desktop/image3.png"
+         xlink:href="image3.png"
+         style="opacity:0.75497161"
+         id="image610"
+         transform="matrix(0.66666667,0,0,0.65789474,1152.9368,723)"
+         height="109.44"
+         width="216" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect612"
+       height="72"
+       width="144"
+       y="723"
+       x="1152.9368" />
+    <text
+       y="737"
+       x="1157.9368"
+       style="fill:#000000;stroke:none"
+       id="text614">
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan616"
+         textLength="133.7793"
+         y="755"
+         x="1160.4592"
+         font-weight="500"
+         font-size="20">National Child</tspan>
+      <tspan
+         style="font-size:20px;font-weight:500;font-family:Georgia"
+         id="tspan618"
+         textLength="66.65039"
+         y="777"
+         x="1191.6116"
+         font-weight="500"
+         font-size="20">Agenda</tspan>
+    </text>
   </g>
-  <rect
-     x="1152.9368"
-     y="723"
-     width="144"
-     height="72"
-     id="rect612"
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
-  <text
-     id="text614"
-     style="fill:#000000;stroke:none"
-     x="1157.9368"
-     y="737">
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1160.4592"
-       y="755"
-       textLength="133.7793"
-       id="tspan616"
-       style="font-size:20px;font-weight:500;font-family:Georgia">National Child</tspan>
-    <tspan
-       font-size="20"
-       font-weight="500"
-       x="1191.6116"
-       y="777"
-       textLength="66.65039"
-       id="tspan618"
-       style="font-size:20px;font-weight:500;font-family:Georgia">Agenda</tspan>
-  </text>
   <rect
      x="341.8754"
      y="722.72498"
@@ -2416,17 +2490,18 @@
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <text
      id="text624"
-     style="fill:#000000;stroke:none"
-     x="346.8754"
-     y="728.72498">
+     style="font-size:11.30420685px;fill:#000000;stroke:none"
+     x="368.43204"
+     y="686.4715"
+     transform="scale(0.94201724,1.0615517)">
     <tspan
        font-size="16"
        font-weight="500"
-       x="347.0274"
-       y="743.72498"
+       x="368.57523"
+       y="700.60175"
        textLength="47.696"
        id="tspan626"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Part of</tspan>
+       style="font-size:15.07227612px;font-weight:500;font-family:Helvetica Neue">Part of</tspan>
   </text>
   <rect
      x="263.30017"
@@ -2444,17 +2519,18 @@
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <text
      id="text632"
-     style="fill:#000000;stroke:none"
-     x="268.30017"
-     y="824.30017">
+     style="font-size:11.12345982px;fill:#000000;stroke:none"
+     x="289.70401"
+     y="764.08917"
+     transform="scale(0.92695501,1.078801)">
     <tspan
        font-size="16"
        font-weight="500"
-       x="268.45218"
-       y="839.30017"
+       x="289.84494"
+       y="777.99353"
        textLength="47.696"
        id="tspan634"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Part of</tspan>
+       style="font-size:14.83127975px;font-weight:500;font-family:Helvetica Neue">Part of</tspan>
   </text>
   <line
      x1="1037.2688"
@@ -2479,16 +2555,17 @@
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
   <text
      id="text642"
-     style="fill:#000000;stroke:none"
-     x="1068.1021"
-     y="672.14008">
+     style="font-size:11.82988834px;fill:#000000;stroke:none"
+     x="1083.5103"
+     y="662.61188"
+     transform="scale(0.98582408,1.0143798)">
     <tspan
        font-size="16"
        font-weight="500"
-       x="1068.2542"
-       y="687.14008"
+       x="1083.6603"
+       y="677.39923"
        textLength="47.696"
        id="tspan644"
-       style="font-size:16px;font-weight:500;font-family:Helvetica Neue">Part of</tspan>
+       style="font-size:15.77318478px;font-weight:500;font-family:Helvetica Neue">Part of</tspan>
   </text>
 </svg>

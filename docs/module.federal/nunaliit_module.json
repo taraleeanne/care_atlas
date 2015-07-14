@@ -17,8 +17,13 @@
 		,"svgAttachment": "federal_chart.svg"
 		,"cssAttachment": "services.css"
 		,"elemIdToDocId":{
-			"g4362":"2f6cf81060bfa0bcb5214a4e68cd7d58"
-			,"g3354":"2f6cf81060bfa0bcb5214a4e68b88982"
+			"g3359":"2f6cf81060bfa0bcb5214a4e68fea2da"
+			,"g3369":"2f6cf81060bfa0bcb5214a4e68fe930f"
+			,"g3448":"380ce24d0fb3378c019b473e8101612a"
+			,"g3467":"380ce24d0fb3378c019b473e8101daf5"
+			,"g3477":"380ce24d0fb3378c019b473e8101d93d"
+			,"g3523":"380ce24d0fb3378c019b473e8101ca9c"
+			,"g3513":"380ce24d0fb3378c019b473e8101c196"
 		}
 	}
 	,"display":{
@@ -26,7 +31,7 @@
 	}
 	,"edit":{
 		"defaultSchemaName": "demo_doc"
-		,"newDocumentSchemaNames": ["demo_doc","policy_doc","provider_doc","program_doc"]
+		,"newDocumentSchemaNames": ["demo_doc","benefit_doc","policy_doc","provider_doc","program_doc"]
 	}
 	,"help":{
 		"nunaliit_type":"reference"
