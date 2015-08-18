@@ -222,7 +222,7 @@ window.nunaliit_custom.configuration = function(config, callback){
 		customService.setOption('defaultNavigationIdentifier','navigation.demo');
 		customService.setOption('displayFormat','tiled');	
 		// Default module
-		customService.setOption('defaultModuleIdentifier','module.demo');
+		customService.setOption('defaultModuleIdentifier','module.intro');
 		//Document Pic	
 		customService.setOption('editorEnableAddFile',true);
 		

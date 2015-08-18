@@ -15,37 +15,33 @@
 			,"href": "./index.html?module=module.intro"
 	
 		}
-	           ,{
-                           "title": {
-                                  "nunaliit_type":"localized"
-                                  ,"en":"Ontario Early Years Centres"
-                                  ,"fr":"Module de Intro"
-                          }
-                          ,"href": "./index.html?module=module.program"
-                }   
-                   ,{
-                        "title": {
-                                "nunaliit_type":"localized"
-                                ,"en":"Municipal and Provincial Programs"
-                                ,"fr":"Module de Intro"
-                        }
-                        ,"href": "./index.html?module=module.munpro"
-                 }      
-                  ,{
-                         "title": {
-                                 "nunaliit_type":"localized"
-                                 ,"en":"Federal Programs "
-                                 ,"fr":"Module de Intro"
-                         }
-                         ,"href": "./index.html?module=module.federal"
-                 }
 		,{
 			"title": {
 				"nunaliit_type":"localized"
-				,"en":"SVG"
+				,"en":"Ontario Early Years Centres"
 			}
-			,"href": "./index.html?module=module.svg"
+			,"href": "./index.html?module=module.program"
+		}   
+		,{
+			"title": {
+				"nunaliit_type":"localized"
+				,"en":"Municipal and Provincial Programs"
+			}
+			,"href": "./index.html?module=module.munpro"
+		}      
+		,{
+			"title": {
+				"nunaliit_type":"localized"
+				,"en":"Federal Programs "
+			}
+			,"href": "./index.html?module=module.federal"
 		}
-                       
+		,{
+			"title": {
+				"nunaliit_type":"localized"
+				,"en":"Ottawa Child Care Graph"
+			}
+			,"href": "./index.html?module=module.child_care_graph"
+		}
 	]
 }
