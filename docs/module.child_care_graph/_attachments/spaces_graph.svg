@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 756 553"
+   width="63pc"
+   height="553pt"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="spaces_graph.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1779"
+     inkscape:window-height="1002"
+     id="namedview417"
+     showgrid="false"
+     inkscape:zoom="1.2368897"
+     inkscape:cx="472.5"
+     inkscape:cy="345.625"
+     inkscape:window-x="65"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4"> Produced by OmniGraffle 6.0.5 <dc:date>2015-08-07 14:59Z</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <defs
+     id="defs6">
+    <filter
+       id="Shadow"
+       filterUnits="userSpaceOnUse">
+      <feGaussianBlur
+         in="SourceAlpha"
+         result="blur"
+         stdDeviation="1.308"
+         id="feGaussianBlur9" />
+      <feOffset
+         in="blur"
+         result="offset"
+         dx="0"
+         dy="2"
+         id="feOffset11" />
+      <feFlood
+         flood-color="black"
+         flood-opacity=".5"
+         result="flood"
+         id="feFlood13" />
+      <feComposite
+         in="flood"
+         in2="offset"
+         operator="in"
+         id="feComposite15" />
+    </filter>
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#ff3425"
+         id="stop18" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient"
+       xlink:href="#Gradient"
+       gradientTransform="matrix(3.2317207,-61.664904,61.664904,3.2317207,94.88414,502.83245)" />
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient_2"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fef84c"
+         id="stop24" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop26" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient_2"
+       xlink:href="#Gradient_2"
+       gradientTransform="matrix(0,-190,190,0,131.5,502)" />
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient_3"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#58cafe"
+         id="stop30" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop32" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient_3"
+       xlink:href="#Gradient_3"
+       gradientTransform="matrix(1.2456799,-23.768989,23.768989,1.2456799,95.87716,444.8845)" />
+    <font-face
+       font-family="Helvetica"
+       font-size="18"
+       units-per-em="1000"
+       underline-position="-75.683594"
+       underline-thickness="49.316406"
+       slope="0"
+       x-height="522.94922"
+       cap-height="717.28516"
+       ascent="770.01953"
+       descent="-229.98047"
+       font-weight="500"
+       id="font-face35">
+      <font-face-src
+         id="font-face-src37">
+        <font-face-name
+           name="Helvetica"
+           id="font-face-name39" />
+      </font-face-src>
+    </font-face>
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient_4"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#ff352c"
+         id="stop42" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop44" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient_4"
+       xlink:href="#Gradient_4"
+       gradientTransform="matrix(2.2469339,-64.34377,64.34377,2.2469339,127.37653,223.67189)" />
+    <font-face
+       font-family="Helvetica"
+       font-size="14"
+       units-per-em="1000"
+       underline-position="-75.683594"
+       underline-thickness="49.316406"
+       slope="0"
+       x-height="522.94922"
+       cap-height="717.28516"
+       ascent="770.01953"
+       descent="-229.98047"
+       font-weight="500"
+       id="font-face47">
+      <font-face-src
+         id="font-face-src49">
+        <font-face-name
+           name="Helvetica"
+           id="font-face-name51" />
+      </font-face-src>
+    </font-face>
+    <linearGradient
+       id="Obj_Gradient_5"
+       xlink:href="#Gradient"
+       gradientTransform="matrix(3.283985,-62.662166,62.662166,3.283985,185.85801,503.83108)" />
+    <linearGradient
+       id="Obj_Gradient_6"
+       xlink:href="#Gradient_2"
+       gradientTransform="matrix(0,-200,200,0,222.5,503)" />
+    <linearGradient
+       id="Obj_Gradient_7"
+       xlink:href="#Gradient_3"
+       gradientTransform="matrix(1.6637938,-31.747077,31.747077,1.6637938,186.6681,444.87354)" />
+    <linearGradient
+       id="Obj_Gradient_8"
+       xlink:href="#Gradient"
+       gradientTransform="matrix(3.2317207,-61.664904,61.664904,3.2317207,276.88414,502.83245)" />
+    <linearGradient
+       id="Obj_Gradient_9"
+       xlink:href="#Gradient_2"
+       gradientTransform="matrix(0,-220,220,0,313.5,502)" />
+    <linearGradient
+       id="Obj_Gradient_a"
+       xlink:href="#Gradient_3"
+       gradientTransform="matrix(2.3432288,-44.711468,44.711468,2.3432288,277.32839,444.85573)" />
+    <linearGradient
+       id="Obj_Gradient_b"
+       xlink:href="#Gradient"
+       gradientTransform="matrix(3.2317207,-61.664904,61.664904,3.2317207,367.88414,503.83245)" />
+    <linearGradient
+       id="Obj_Gradient_c"
+       xlink:href="#Gradient_2"
+       gradientTransform="matrix(0,-246,246,0,404.5,503)" />
+    <linearGradient
+       id="Obj_Gradient_d"
+       xlink:href="#Gradient_3"
+       gradientTransform="matrix(2.5588187,-48.82517,48.82517,2.5588187,368.2206,443.97509)" />
+    <font-face
+       font-family="Helvetica"
+       font-size="12"
+       units-per-em="1000"
+       underline-position="-75.683594"
+       underline-thickness="49.316406"
+       slope="0"
+       x-height="522.94922"
+       cap-height="717.28516"
+       ascent="770.01953"
+       descent="-229.98047"
+       font-weight="500"
+       id="font-face62">
+      <font-face-src
+         id="font-face-src64">
+        <font-face-name
+           name="Helvetica"
+           id="font-face-name66" />
+      </font-face-src>
+    </font-face>
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient_5"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#58cafe"
+         id="stop69" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop71" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient_e"
+       xlink:href="#Gradient_5"
+       gradientTransform="matrix(1.0942841,-62.691495,62.691495,1.0942841,128.95286,152.34575)" />
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient_6"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fef84c"
+         id="stop75" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop77" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient_f"
+       xlink:href="#Gradient_6"
+       gradientTransform="matrix(1.0935227,-62.647871,62.647871,1.0935227,128.95324,79.823936)" />
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient_7"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#9169d2"
+         id="stop81" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop83" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient_10"
+       xlink:href="#Gradient_7"
+       gradientTransform="matrix(16.798508,-320.53464,320.53464,16.798508,553.43375,501.76732)" />
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient_8"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#69fe75"
+         id="stop87" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop89" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient_11"
+       xlink:href="#Gradient_8"
+       gradientTransform="matrix(4.5686783,-87.175575,87.175575,4.5686783,559.54866,185.58779)" />
+    <linearGradient
+       id="Obj_Gradient_12"
+       xlink:href="#Gradient_7"
+       gradientTransform="matrix(16.903037,-322.52916,322.52916,16.903037,600.38148,502.26458)" />
+    <linearGradient
+       id="Obj_Gradient_13"
+       xlink:href="#Gradient_8"
+       gradientTransform="matrix(4.3596214,-83.186532,83.186532,4.3596214,606.6532,181.59327)" />
+    <linearGradient
+       id="Obj_Gradient_14"
+       xlink:href="#Gradient_7"
+       gradientTransform="matrix(17.599876,-335.82563,335.82563,17.599876,645.47606,502.24632)" />
+    <linearGradient
+       id="Obj_Gradient_15"
+       xlink:href="#Gradient_8"
+       gradientTransform="matrix(3.6192097,-69.058636,69.058636,3.6192097,652.4664,167.44597)" />
+    <linearGradient
+       id="Obj_Gradient_16"
+       xlink:href="#Gradient_7"
+       gradientTransform="matrix(19.87337,-379.2065,379.2065,19.87337,689.7823,501.68675)" />
+    <linearGradient
+       id="Obj_Gradient_17"
+       xlink:href="#Gradient_8"
+       gradientTransform="matrix(3.9627235,-75.613269,75.613269,3.9627235,697.98364,123.30658)" />
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient_9"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#9169d2"
+         id="stop99" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop101" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient_18"
+       xlink:href="#Gradient_9"
+       gradientTransform="matrix(0,-35,35,0,356.5,72)" />
+    <linearGradient
+       x1="0"
+       x2="1"
+       id="Gradient_a"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#69fe75"
+         id="stop105" />
+      <stop
+         offset="1"
+         stop-color="#aaa"
+         id="stop107" />
+    </linearGradient>
+    <linearGradient
+       id="Obj_Gradient_19"
+       xlink:href="#Gradient_a"
+       gradientTransform="matrix(3.1508262,-45.058914,45.058914,3.1508262,356.92459,144.52946)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient3558"
+       gradientTransform="matrix(3.2317207,-61.664904,61.664904,3.2317207,94.88414,502.83245)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_2"
+       id="linearGradient3560"
+       gradientTransform="matrix(0,-190,190,0,131.5,502)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_3"
+       id="linearGradient3562"
+       gradientTransform="matrix(1.2456799,-23.768989,23.768989,1.2456799,95.87716,444.8845)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_4"
+       id="linearGradient3564"
+       gradientTransform="matrix(2.2469339,-64.34377,64.34377,2.2469339,127.37653,223.67189)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient3566"
+       gradientTransform="matrix(3.283985,-62.662166,62.662166,3.283985,185.85801,503.83108)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_2"
+       id="linearGradient3568"
+       gradientTransform="matrix(0,-200,200,0,222.5,503)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_3"
+       id="linearGradient3570"
+       gradientTransform="matrix(1.6637938,-31.747077,31.747077,1.6637938,186.6681,444.87354)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient3572"
+       gradientTransform="matrix(3.2317207,-61.664904,61.664904,3.2317207,276.88414,502.83245)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_2"
+       id="linearGradient3574"
+       gradientTransform="matrix(0,-220,220,0,313.5,502)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_3"
+       id="linearGradient3576"
+       gradientTransform="matrix(2.3432288,-44.711468,44.711468,2.3432288,277.32839,444.85573)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient"
+       id="linearGradient3578"
+       gradientTransform="matrix(3.2317207,-61.664904,61.664904,3.2317207,367.88414,503.83245)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_2"
+       id="linearGradient3580"
+       gradientTransform="matrix(0,-246,246,0,404.5,503)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_3"
+       id="linearGradient3582"
+       gradientTransform="matrix(2.5588187,-48.82517,48.82517,2.5588187,368.2206,443.97509)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_5"
+       id="linearGradient3584"
+       gradientTransform="matrix(1.0942841,-62.691495,62.691495,1.0942841,128.95286,152.34575)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_6"
+       id="linearGradient3586"
+       gradientTransform="matrix(1.0935227,-62.647871,62.647871,1.0935227,128.95324,79.823936)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_7"
+       id="linearGradient3588"
+       gradientTransform="matrix(16.798508,-320.53464,320.53464,16.798508,553.43375,501.76732)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_8"
+       id="linearGradient3590"
+       gradientTransform="matrix(4.5686783,-87.175575,87.175575,4.5686783,559.54866,185.58779)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_7"
+       id="linearGradient3592"
+       gradientTransform="matrix(16.903037,-322.52916,322.52916,16.903037,600.38148,502.26458)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_8"
+       id="linearGradient3594"
+       gradientTransform="matrix(4.3596214,-83.186532,83.186532,4.3596214,606.6532,181.59327)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_7"
+       id="linearGradient3596"
+       gradientTransform="matrix(17.599876,-335.82563,335.82563,17.599876,645.47606,502.24632)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_8"
+       id="linearGradient3598"
+       gradientTransform="matrix(3.6192097,-69.058636,69.058636,3.6192097,652.4664,167.44597)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_7"
+       id="linearGradient3600"
+       gradientTransform="matrix(19.87337,-379.2065,379.2065,19.87337,689.7823,501.68675)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_8"
+       id="linearGradient3602"
+       gradientTransform="matrix(3.9627235,-75.613269,75.613269,3.9627235,697.98364,123.30658)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_9"
+       id="linearGradient3604"
+       gradientTransform="matrix(0,-35,35,0,356.5,72)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient_a"
+       id="linearGradient3606"
+       gradientTransform="matrix(3.1508262,-45.058914,45.058914,3.1508262,356.92459,144.52946)" />
+  </defs>
+  <g
+     style="fill:none;stroke:none"
+     id="g118">
+    <xlink:use
+       xlink:href="#id28_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id31_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id36_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id67_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id69_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id70_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id71_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id72_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id73_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id74_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id75_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id76_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id77_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id91_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id92_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id93_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id97_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id102_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id104_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id105_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id107_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id108_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id110_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id131_Graphic"
+       filter="url(#Shadow)" />
+    <xlink:use
+       xlink:href="#id132_Graphic"
+       filter="url(#Shadow)" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id28_Graphic">
+    <rect
+       x="79"
+       y="442"
+       width="35"
+       height="60"
+       id="rect121"
+       style="fill:url(#linearGradient3558)" />
+    <rect
+       x="79"
+       y="442"
+       width="35"
+       height="60"
+       id="rect123"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <path
+     d="m 69,506 0,0 0,-122 -1,-151"
+     id="path125"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round" />
+  <g
+     style="fill:none;stroke:none"
+     id="id31_Graphic">
+    <rect
+       x="114"
+       y="312"
+       width="35"
+       height="190"
+       id="rect128"
+       style="fill:url(#linearGradient3560)" />
+    <rect
+       x="114"
+       y="312"
+       width="35"
+       height="190"
+       id="rect130"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <path
+     d="m 69,506 137,0 109,0 121,0"
+     id="path132"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round" />
+  <g
+     style="fill:none;stroke:none"
+     id="id36_Graphic">
+    <rect
+       x="79"
+       y="422"
+       width="35"
+       height="22"
+       id="rect135"
+       style="fill:url(#linearGradient3562)" />
+    <rect
+       x="79"
+       y="422"
+       width="35"
+       height="22"
+       id="rect137"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <text
+     id="text139"
+     style="fill:#000000;stroke:none"
+     x="95"
+     y="514">
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="95.478516"
+       y="532"
+       textLength="40.042969"
+       id="tspan141"
+       style="font-size:18px;font-weight:500;font-family:Helvetica">2010</tspan>
+  </text>
+  <text
+     id="text143"
+     style="fill:#000000;stroke:none"
+     x="186"
+     y="514">
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="186.14209"
+       y="532"
+       textLength="30.032227"
+       id="tspan145"
+       style="font-size:18px;font-weight:500;font-family:Helvetica">201</tspan>
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="214.84717"
+       y="532"
+       textLength="10.010742"
+       id="tspan147"
+       style="font-size:18px;font-weight:500;font-family:Helvetica">1</tspan>
+  </text>
+  <text
+     id="text149"
+     style="fill:#000000;stroke:none"
+     x="277"
+     y="514">
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="277.47852"
+       y="532"
+       textLength="40.042969"
+       id="tspan151"
+       style="font-size:18px;font-weight:500;font-family:Helvetica">2012</tspan>
+  </text>
+  <text
+     id="text153"
+     style="fill:#000000;stroke:none"
+     x="368"
+     y="514">
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="368.47852"
+       y="532"
+       textLength="40.042969"
+       id="tspan155"
+       style="font-size:18px;font-weight:500;font-family:Helvetica">2013</tspan>
+  </text>
+  <g
+     style="fill:none;stroke:none"
+     id="id67_Graphic">
+    <rect
+       x="79.5"
+       y="161"
+       width="98"
+       height="61"
+       id="rect158"
+       style="fill:url(#linearGradient3564)" />
+    <rect
+       x="79.5"
+       y="161"
+       width="98"
+       height="61"
+       id="rect160"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       transform="translate(84.5,166)"
+       id="text162"
+       style="fill:#000000">
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="9.7553711"
+         y="14"
+         textLength="72.378906"
+         id="tspan164"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">Subsidized</tspan>
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="10.931152"
+         y="31"
+         textLength="70.027344"
+         id="tspan166"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">Child Care</tspan>
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="20.651855"
+         y="48"
+         textLength="46.69629"
+         id="tspan168"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">Spaces</tspan>
+    </text>
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id69_Graphic">
+    <rect
+       x="170"
+       y="442"
+       width="35"
+       height="61"
+       id="rect171"
+       style="fill:url(#linearGradient3566)" />
+    <rect
+       x="170"
+       y="442"
+       width="35"
+       height="61"
+       id="rect173"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id70_Graphic">
+    <rect
+       x="205"
+       y="303"
+       width="35"
+       height="200"
+       id="rect176"
+       style="fill:url(#linearGradient3568)" />
+    <rect
+       x="205"
+       y="303"
+       width="35"
+       height="200"
+       id="rect178"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id71_Graphic">
+    <rect
+       x="170"
+       y="414"
+       width="35"
+       height="30"
+       id="rect181"
+       style="fill:url(#linearGradient3570)" />
+    <rect
+       x="170"
+       y="414"
+       width="35"
+       height="30"
+       id="rect183"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id72_Graphic">
+    <rect
+       x="261"
+       y="442"
+       width="35"
+       height="60"
+       id="rect186"
+       style="fill:url(#linearGradient3572)" />
+    <rect
+       x="261"
+       y="442"
+       width="35"
+       height="60"
+       id="rect188"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id73_Graphic">
+    <rect
+       x="296"
+       y="282"
+       width="35"
+       height="220"
+       id="rect191"
+       style="fill:url(#linearGradient3574)" />
+    <rect
+       x="296"
+       y="282"
+       width="35"
+       height="220"
+       id="rect193"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id74_Graphic">
+    <rect
+       x="261"
+       y="401"
+       width="35"
+       height="43"
+       id="rect196"
+       style="fill:url(#linearGradient3576)" />
+    <rect
+       x="261"
+       y="401"
+       width="35"
+       height="43"
+       id="rect198"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id75_Graphic">
+    <rect
+       x="352"
+       y="443"
+       width="35"
+       height="60"
+       id="rect201"
+       style="fill:url(#linearGradient3578)" />
+    <rect
+       x="352"
+       y="443"
+       width="35"
+       height="60"
+       id="rect203"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id76_Graphic">
+    <rect
+       x="387"
+       y="257"
+       width="35"
+       height="246"
+       id="rect206"
+       style="fill:url(#linearGradient3580)" />
+    <rect
+       x="387"
+       y="257"
+       width="35"
+       height="246"
+       id="rect208"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id77_Graphic">
+    <rect
+       x="352"
+       y="396"
+       width="35"
+       height="47.125"
+       id="rect211"
+       style="fill:url(#linearGradient3582)" />
+    <rect
+       x="352"
+       y="396"
+       width="35"
+       height="47.125"
+       id="rect213"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <line
+     x1="69"
+     y1="460.81369"
+     x2="55"
+     y2="461"
+     id="line215"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="69"
+     y1="412"
+     x2="55"
+     y2="412"
+     id="line217"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="69"
+     y1="369"
+     x2="55"
+     y2="369"
+     id="line219"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="68"
+     y1="323"
+     x2="54"
+     y2="323"
+     id="line221"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="67"
+     y1="278"
+     x2="53"
+     y2="278"
+     id="line223"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="68"
+     y1="233"
+     x2="52"
+     y2="233"
+     id="line225"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text227"
+     style="fill:#000000;stroke:none"
+     x="21.5"
+     y="455">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="21.652344"
+       y="466"
+       textLength="26.695312"
+       id="tspan229"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">5000</tspan>
+  </text>
+  <text
+     id="text231"
+     style="fill:#000000;stroke:none"
+     x="11.5"
+     y="405">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="11.648438"
+       y="416"
+       textLength="36.703125"
+       id="tspan233"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">10 000</tspan>
+  </text>
+  <text
+     id="text235"
+     style="fill:#000000;stroke:none"
+     x="11.5"
+     y="362">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="11.648438"
+       y="373"
+       textLength="36.703125"
+       id="tspan237"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">15 000</tspan>
+  </text>
+  <text
+     id="text239"
+     style="fill:#000000;stroke:none"
+     x="11.5"
+     y="316">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="11.648438"
+       y="327"
+       textLength="36.703125"
+       id="tspan241"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">20 000</tspan>
+  </text>
+  <text
+     id="text243"
+     style="fill:#000000;stroke:none"
+     x="11.5"
+     y="270">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="11.648438"
+       y="281"
+       textLength="36.703125"
+       id="tspan245"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">25 000</tspan>
+  </text>
+  <text
+     id="text247"
+     style="fill:#000000;stroke:none"
+     x="11.5"
+     y="227">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="11.648438"
+       y="238"
+       textLength="36.703125"
+       id="tspan249"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">30 000</tspan>
+  </text>
+  <g
+     style="fill:none;stroke:none"
+     id="id91_Graphic">
+    <rect
+       x="80.5"
+       y="90.5"
+       width="98"
+       height="61"
+       id="rect252"
+       style="fill:url(#linearGradient3584)" />
+    <rect
+       x="80.5"
+       y="90.5"
+       width="98"
+       height="61"
+       id="rect254"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       transform="translate(85.5,95.5)"
+       id="text256"
+       style="fill:#000000">
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="0.3046875"
+         y="14"
+         textLength="35.779297"
+         id="tspan258"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">On W</tspan>
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="35.571289"
+         y="14"
+         textLength="56.013672"
+         id="tspan260"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">aitlist for</tspan>
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="10.931152"
+         y="31"
+         textLength="70.027344"
+         id="tspan262"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">Child Care</tspan>
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="13.648438"
+         y="48"
+         textLength="60.703125"
+         id="tspan264"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">Subsidies</tspan>
+    </text>
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id92_Graphic">
+    <rect
+       x="81.75"
+       y="18"
+       width="95.5"
+       height="61"
+       id="rect267"
+       style="fill:url(#linearGradient3586)" />
+    <rect
+       x="81.75"
+       y="18"
+       width="95.5"
+       height="61"
+       id="rect269"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       transform="translate(86.75,23)"
+       id="text271"
+       style="fill:#000000">
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="10.836426"
+         y="14"
+         textLength="67.716797"
+         id="tspan273"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">Regulated</tspan>
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="9.6811523"
+         y="31"
+         textLength="70.027344"
+         id="tspan275"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">Child Care</tspan>
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="19.401855"
+         y="48"
+         textLength="46.69629"
+         id="tspan277"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">Spaces</tspan>
+    </text>
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id93_Graphic">
+    <rect
+       x="548.33301"
+       y="181.5"
+       width="27"
+       height="320"
+       id="rect280"
+       style="fill:url(#linearGradient3588)" />
+    <rect
+       x="548.33301"
+       y="181.5"
+       width="27"
+       height="320"
+       id="rect282"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <path
+     d="m 537,505.5 0,0 0,-122 0,-340.5"
+     id="path284"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round" />
+  <path
+     d="m 537,505.5 137,0 62.886,0.5 6.114,-0.5"
+     id="path286"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round" />
+  <g
+     style="fill:none;stroke:none"
+     id="id97_Graphic">
+    <rect
+       x="548.33301"
+       y="99"
+       width="27"
+       height="86"
+       id="rect289"
+       style="fill:url(#linearGradient3590)" />
+    <rect
+       x="548.33301"
+       y="99"
+       width="27"
+       height="86"
+       id="rect291"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <text
+     id="text293"
+     style="fill:#000000;stroke:none"
+     x="541.33301"
+     y="513.5">
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="541.81152"
+       y="531.5"
+       textLength="40.042969"
+       id="tspan295"
+       style="font-size:18px;font-weight:500;font-family:Helvetica">2012</tspan>
+  </text>
+  <text
+     id="text297"
+     style="fill:#000000;stroke:none"
+     x="588.33301"
+     y="513.5">
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="588.81152"
+       y="531.5"
+       textLength="40.042969"
+       id="tspan299"
+       style="font-size:18px;font-weight:500;font-family:Helvetica">2013</tspan>
+  </text>
+  <text
+     id="text301"
+     style="fill:#000000;stroke:none"
+     x="634"
+     y="513.5">
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="634.47852"
+       y="531.5"
+       textLength="40.042969"
+       id="tspan303"
+       style="font-size:18px;font-weight:500;font-family:Helvetica">2014</tspan>
+  </text>
+  <text
+     id="text305"
+     style="fill:#000000;stroke:none"
+     x="679.21899"
+     y="513.5">
+    <tspan
+       font-size="18"
+       font-weight="500"
+       x="679.69751"
+       y="531.5"
+       textLength="40.042969"
+       id="tspan307"
+       style="font-size:18px;font-weight:500;font-family:Helvetica">2015</tspan>
+  </text>
+  <g
+     style="fill:none;stroke:none"
+     id="id102_Graphic">
+    <rect
+       x="595.33301"
+       y="180"
+       width="27"
+       height="322"
+       id="rect310"
+       style="fill:url(#linearGradient3592)" />
+    <rect
+       x="595.33301"
+       y="180"
+       width="27"
+       height="322"
+       id="rect312"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id104_Graphic">
+    <rect
+       x="595.33301"
+       y="99"
+       width="27"
+       height="82"
+       id="rect315"
+       style="fill:url(#linearGradient3594)" />
+    <rect
+       x="595.33301"
+       y="99"
+       width="27"
+       height="82"
+       id="rect317"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id105_Graphic">
+    <rect
+       x="640.776"
+       y="166.66701"
+       width="27"
+       height="335.33301"
+       id="rect320"
+       style="fill:url(#linearGradient3596)" />
+    <rect
+       x="640.776"
+       y="166.66701"
+       width="27"
+       height="335.33301"
+       id="rect322"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id107_Graphic">
+    <rect
+       x="640.776"
+       y="99"
+       width="27"
+       height="67.833298"
+       id="rect325"
+       style="fill:url(#linearGradient3598)" />
+    <rect
+       x="640.776"
+       y="99"
+       width="27"
+       height="67.833298"
+       id="rect327"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id108_Graphic">
+    <rect
+       x="686.21899"
+       y="122.667"
+       width="27"
+       height="378.83301"
+       id="rect330"
+       style="fill:url(#linearGradient3600)" />
+    <rect
+       x="686.21899"
+       y="122.667"
+       width="27"
+       height="378.83301"
+       id="rect332"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id110_Graphic">
+    <rect
+       x="685.77197"
+       y="48.333302"
+       width="28.386"
+       height="74.333298"
+       id="rect335"
+       style="fill:url(#linearGradient3602)" />
+    <rect
+       x="685.77197"
+       y="48.333302"
+       width="28.386"
+       height="74.333298"
+       id="rect337"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+  <line
+     x1="537"
+     y1="411.5"
+     x2="523"
+     y2="411.5"
+     id="line339"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="537"
+     y1="368.5"
+     x2="523"
+     y2="368.5"
+     id="line341"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="536"
+     y1="322.5"
+     x2="522"
+     y2="322.5"
+     id="line343"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text345"
+     style="fill:#000000;stroke:none"
+     x="458"
+     y="453.5">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="458.4707"
+       y="464.5"
+       textLength="60.058594"
+       id="tspan347"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">10 000 000</tspan>
+  </text>
+  <text
+     id="text349"
+     style="fill:#000000;stroke:none"
+     x="458"
+     y="404.5">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="458.4707"
+       y="415.5"
+       textLength="60.058594"
+       id="tspan351"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">20 000 000</tspan>
+  </text>
+  <text
+     id="text353"
+     style="fill:#000000;stroke:none"
+     x="458.5"
+     y="361.5">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="458.9707"
+       y="372.5"
+       textLength="60.058594"
+       id="tspan355"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">30 000 000</tspan>
+  </text>
+  <text
+     id="text357"
+     style="fill:#000000;stroke:none"
+     x="458"
+     y="315.5">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="458.4707"
+       y="326.5"
+       textLength="60.058594"
+       id="tspan359"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">40 000 000</tspan>
+  </text>
+  <text
+     id="text361"
+     style="fill:#000000;stroke:none"
+     x="458.5"
+     y="271">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="458.9707"
+       y="282"
+       textLength="60.058594"
+       id="tspan363"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">50 000 000</tspan>
+  </text>
+  <text
+     id="text365"
+     style="fill:#000000;stroke:none"
+     x="459.05701"
+     y="228">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="459.52771"
+       y="239"
+       textLength="60.058594"
+       id="tspan367"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">60 000 000</tspan>
+  </text>
+  <line
+     x1="535.5"
+     y1="460"
+     x2="521.5"
+     y2="460"
+     id="line369"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="537"
+     y1="235.006"
+     x2="520.55701"
+     y2="235"
+     id="line371"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="537.44299"
+     y1="188.006"
+     x2="521"
+     y2="188"
+     id="line373"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="536.94299"
+     y1="145.506"
+     x2="520.5"
+     y2="145.5"
+     id="line375"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="537.94299"
+     y1="100.506"
+     x2="521.5"
+     y2="100.5"
+     id="line377"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text379"
+     style="fill:#000000;stroke:none"
+     x="459"
+     y="181.5">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="459.4707"
+       y="192.5"
+       textLength="60.058594"
+       id="tspan381"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">70 000 000</tspan>
+  </text>
+  <text
+     id="text383"
+     style="fill:#000000;stroke:none"
+     x="459"
+     y="138">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="459.4707"
+       y="149"
+       textLength="60.058594"
+       id="tspan385"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">80 000 000</tspan>
+  </text>
+  <text
+     id="text387"
+     style="fill:#000000;stroke:none"
+     x="459"
+     y="93.5">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="459.4707"
+       y="104.5"
+       textLength="60.058594"
+       id="tspan389"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">90 000 000</tspan>
+  </text>
+  <line
+     x1="537.44299"
+     y1="278.50601"
+     x2="521"
+     y2="278.5"
+     id="line391"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <g
+     style="fill:none;stroke:none"
+     id="id131_Graphic">
+    <rect
+       x="283"
+       y="37"
+       width="147"
+       height="35"
+       id="rect394"
+       style="fill:url(#linearGradient3604)" />
+    <rect
+       x="283"
+       y="37"
+       width="147"
+       height="35"
+       id="rect396"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       transform="translate(288,46)"
+       id="text398"
+       style="fill:#000000">
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="10.914062"
+         y="14"
+         textLength="115.171875"
+         id="tspan400"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">Provincial Funding</tspan>
+    </text>
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="id132_Graphic">
+    <rect
+       x="285"
+       y="104.5"
+       width="147"
+       height="35"
+       id="rect403"
+       style="fill:url(#linearGradient3606)" />
+    <rect
+       x="285"
+       y="104.5"
+       width="147"
+       height="35"
+       id="rect405"
+       style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       transform="translate(290,113.5)"
+       id="text407"
+       style="fill:#000000">
+      <tspan
+         font-size="14"
+         font-weight="500"
+         x="11.689941"
+         y="14"
+         textLength="113.62012"
+         id="tspan409"
+         style="font-size:14px;font-weight:500;font-family:Helvetica">Municipal Funding</tspan>
+    </text>
+  </g>
+  <line
+     x1="536.44299"
+     y1="54.672699"
+     x2="520"
+     y2="54.666698"
+     id="line411"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     id="text413"
+     style="fill:#000000;stroke:none"
+     x="452.16699"
+     y="48.333302">
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="452.30078"
+       y="59.333302"
+       textLength="66.73242"
+       id="tspan415"
+       style="font-size:12px;font-weight:500;font-family:Helvetica">100 000 000</tspan>
+  </text>
+</svg>
