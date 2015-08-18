@@ -14,7 +14,7 @@
 	{{#benefit_doc}}
 		{{#benefit}}
 			<div>
-				<div class="label n2s_localize">Benefit Name</div>
+				<div class="label n2s_localize">Name</div>
 				<div class="value">{{.}}</div>
 				<div class="end"></div>
 			</div>

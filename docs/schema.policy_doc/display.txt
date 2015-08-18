@@ -13,7 +13,7 @@
 	{{#policy_doc}}
 		{{#policy}}
 			<div>
-				<div class="label n2s_localize">Policy</div>
+				<div class="label n2s_localize">Name</div>
 				<div class="value">{{.}}</div>
 				<div class="end"></div>
 			</div>
